@@ -10,12 +10,6 @@ const T = story.totals
 const WR = story.where
 const WH = story.what
 
-function initialTheme() {
-  const attr = document.documentElement.getAttribute('data-theme')
-  if (attr === 'light' || attr === 'dark') return attr
-  return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
-}
-
 function Section({ id, eyebrow, title, lede, children }) {
   const ref = useReveal()
   return (
@@ -62,11 +56,10 @@ function Bridge({ pal }) {
 }
 
 export default function App() {
-  const [theme, setTheme] = useState(initialTheme)
+  const [theme, setTheme] = useState('light')
   const pal = PALETTES[theme]
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme)
-    try { localStorage.setItem('wpfbc-theme', theme) } catch (e) { /* storage unavailable */ }
   }, [theme])
 
   const tx = WR.cells.find((c) => c.state === 'Texas' && c.sub === 'Binders')
