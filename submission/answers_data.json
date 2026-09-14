@@ -1,0 +1,1524 @@
+{
+ "totals": {
+  "sales": 2297200.8603,
+  "profit": 286397.0217,
+  "margin": 0.12467217240315605,
+  "lines": 9994,
+  "orders": 5009,
+  "grossLosses": -156131.2857
+ },
+ "subs": {
+  "Bookcases": {
+   "sales": 114879.9963,
+   "profit": -3472.556,
+   "margin": -0.030227682032054524,
+   "fullPriceMargin": 0.20116557587227835,
+   "lines": 228,
+   "orders": 224,
+   "losses": -12152.206,
+   "deepListShare": 0.3391474086025897,
+   "sub": "Bookcases",
+   "cat": "Furniture",
+   "byYear": {
+    "2014": -346.17069999999995,
+    "2015": -2755.2302,
+    "2016": 212.471,
+    "2017": -583.6261
+   },
+   "salesRank": 9,
+   "profitRank": 16,
+   "marginRank": 16
+  },
+  "Chairs": {
+   "sales": 328449.103,
+   "profit": 26590.1663,
+   "margin": 0.08095673289142763,
+   "fullPriceMargin": 0.23351078309340145,
+   "lines": 617,
+   "orders": 576,
+   "losses": -9880.8413,
+   "deepListShare": 0.2539429414743073,
+   "sub": "Chairs",
+   "cat": "Furniture",
+   "byYear": {
+    "2014": 6955.0470000000005,
+    "2015": 6228.4161,
+    "2016": 5763.1539,
+    "2017": 7643.549300000001
+   },
+   "salesRank": 2,
+   "profitRank": 6,
+   "marginRank": 13
+  },
+  "Labels": {
+   "sales": 12486.312,
+   "profit": 5546.254,
+   "margin": 0.4441867222283089,
+   "fullPriceMargin": 0.47811264851857427,
+   "lines": 364,
+   "orders": 346,
+   "losses": 0,
+   "deepListShare": 0.0,
+   "sub": "Labels",
+   "cat": "Office Supplies",
+   "byYear": {
+    "2014": 1286.0042,
+    "2015": 1323.0286,
+    "2016": 1192.6118999999999,
+    "2017": 1744.6093
+   },
+   "salesRank": 16,
+   "profitRank": 12,
+   "marginRank": 1
+  },
+  "Tables": {
+   "sales": 206965.532,
+   "profit": -17725.4811,
+   "margin": -0.08564460433923848,
+   "fullPriceMargin": 0.19085013649863425,
+   "lines": 319,
+   "orders": 307,
+   "losses": -32412.1483,
+   "deepListShare": 0.5377306151340627,
+   "sub": "Tables",
+   "cat": "Furniture",
+   "byYear": {
+    "2014": -3124.0427,
+    "2015": -3509.8019,
+    "2016": -2950.9418,
+    "2017": -8140.6947
+   },
+   "salesRank": 4,
+   "profitRank": 17,
+   "marginRank": 17
+  },
+  "Storage": {
+   "sales": 223843.608,
+   "profit": 21278.8264,
+   "margin": 0.09506113035847778,
+   "fullPriceMargin": 0.15717783231971139,
+   "lines": 846,
+   "orders": 777,
+   "losses": -6426.3038,
+   "deepListShare": 0.0,
+   "sub": "Storage",
+   "cat": "Office Supplies",
+   "byYear": {
+    "2014": 4166.2788,
+    "2015": 3505.4601000000002,
+    "2016": 6204.2868,
+    "2017": 7402.8007
+   },
+   "salesRank": 3,
+   "profitRank": 7,
+   "marginRank": 12
+  },
+  "Furnishings": {
+   "sales": 91705.164,
+   "profit": 13059.1436,
+   "margin": 0.14240357936658832,
+   "fullPriceMargin": 0.2689183534297226,
+   "lines": 957,
+   "orders": 877,
+   "losses": -6490.9134,
+   "deepListShare": 0.15442034422906167,
+   "sub": "Furnishings",
+   "cat": "Furniture",
+   "byYear": {
+    "2014": 1972.8919,
+    "2015": 3051.8189,
+    "2016": 3935.27,
+    "2017": 4099.1628
+   },
+   "salesRank": 11,
+   "profitRank": 9,
+   "marginRank": 10
+  },
+  "Art": {
+   "sales": 27118.792,
+   "profit": 6527.787,
+   "margin": 0.24071083254740847,
+   "fullPriceMargin": 0.29950249754803815,
+   "lines": 796,
+   "orders": 731,
+   "losses": 0,
+   "deepListShare": 0.0,
+   "sub": "Art",
+   "cat": "Office Supplies",
+   "byYear": {
+    "2014": 1406.8031,
+    "2015": 1485.0582,
+    "2016": 1413.9626,
+    "2017": 2221.9631
+   },
+   "salesRank": 14,
+   "profitRank": 11,
+   "marginRank": 7
+  },
+  "Phones": {
+   "sales": 330007.054,
+   "profit": 44515.7306,
+   "margin": 0.1348932698874976,
+   "fullPriceMargin": 0.2787820595538488,
+   "lines": 889,
+   "orders": 814,
+   "losses": -7530.6235,
+   "deepListShare": 0.14457365402495295,
+   "sub": "Phones",
+   "cat": "Technology",
+   "byYear": {
+    "2014": 11808.0053,
+    "2015": 10398.8074,
+    "2016": 9459.5929,
+    "2017": 12849.325
+   },
+   "salesRank": 1,
+   "profitRank": 2,
+   "marginRank": 11
+  },
+  "Binders": {
+   "sales": 203412.733,
+   "profit": 30221.7633,
+   "margin": 0.1485736062550224,
+   "fullPriceMargin": 0.47792666241550597,
+   "lines": 1523,
+   "orders": 1316,
+   "losses": -38510.4964,
+   "deepListShare": 0.4313782918184009,
+   "sub": "Binders",
+   "cat": "Office Supplies",
+   "byYear": {
+    "2014": 4739.715999999999,
+    "2015": 7596.6714,
+    "2016": 10215.6341,
+    "2017": 7669.7418
+   },
+   "salesRank": 5,
+   "profitRank": 5,
+   "marginRank": 9
+  },
+  "Appliances": {
+   "sales": 107532.161,
+   "profit": 18138.005400000002,
+   "margin": 0.1686751687246386,
+   "fullPriceMargin": 0.29601244832165174,
+   "lines": 466,
+   "orders": 451,
+   "losses": -8629.6412,
+   "deepListShare": 0.13318889882375995,
+   "sub": "Appliances",
+   "cat": "Office Supplies",
+   "byYear": {
+    "2014": 2459.4999,
+    "2015": 2511.8957,
+    "2016": 5301.3415,
+    "2017": 7865.2683
+   },
+   "salesRank": 10,
+   "profitRank": 8,
+   "marginRank": 8
+  },
+  "Paper": {
+   "sales": 78479.206,
+   "profit": 34053.5693,
+   "margin": 0.43391837195702515,
+   "fullPriceMargin": 0.47617170544728804,
+   "lines": 1370,
+   "orders": 1191,
+   "losses": 0,
+   "deepListShare": 0.0,
+   "sub": "Paper",
+   "cat": "Office Supplies",
+   "byYear": {
+    "2014": 6371.0214,
+    "2015": 6570.17,
+    "2016": 9071.5345,
+    "2017": 12040.8434
+   },
+   "salesRank": 12,
+   "profitRank": 4,
+   "marginRank": 2
+  },
+  "Accessories": {
+   "sales": 167380.318,
+   "profit": 41936.6357,
+   "margin": 0.2505469950176579,
+   "fullPriceMargin": 0.30166613038753165,
+   "lines": 775,
+   "orders": 718,
+   "losses": -930.6265,
+   "deepListShare": 0.0,
+   "sub": "Accessories",
+   "cat": "Technology",
+   "byYear": {
+    "2014": 6402.715,
+    "2015": 10197.2752,
+    "2016": 9664.2885,
+    "2017": 15672.357
+   },
+   "salesRank": 7,
+   "profitRank": 3,
+   "marginRank": 6
+  },
+  "Envelopes": {
+   "sales": 16476.402,
+   "profit": 6964.1767,
+   "margin": 0.42267581842200747,
+   "fullPriceMargin": 0.4698905699934629,
+   "lines": 254,
+   "orders": 249,
+   "losses": 0,
+   "deepListShare": 0.0,
+   "sub": "Envelopes",
+   "cat": "Office Supplies",
+   "byYear": {
+    "2014": 1495.4788,
+    "2015": 1960.1906,
+    "2016": 2066.7483,
+    "2017": 1441.759
+   },
+   "salesRank": 15,
+   "profitRank": 10,
+   "marginRank": 3
+  },
+  "Fasteners": {
+   "sales": 3024.28,
+   "profit": 949.5182,
+   "margin": 0.3139650429193064,
+   "fullPriceMargin": 0.3759439217479186,
+   "lines": 217,
+   "orders": 215,
+   "losses": -33.1952,
+   "deepListShare": 0.0,
+   "sub": "Fasteners",
+   "cat": "Office Supplies",
+   "byYear": {
+    "2014": 178.5583,
+    "2015": 171.9376,
+    "2016": 294.0734,
+    "2017": 304.9489
+   },
+   "salesRank": 17,
+   "profitRank": 14,
+   "marginRank": 5
+  },
+  "Supplies": {
+   "sales": 46673.538,
+   "profit": -1189.0995,
+   "margin": -0.025476952272184723,
+   "fullPriceMargin": 0.05132554390182231,
+   "lines": 190,
+   "orders": 187,
+   "losses": -3015.6219,
+   "deepListShare": 0.0,
+   "sub": "Supplies",
+   "cat": "Office Supplies",
+   "byYear": {
+    "2014": 490.05559999999997,
+    "2015": -24.8784,
+    "2016": -698.9639000000001,
+    "2017": -955.3128
+   },
+   "salesRank": 13,
+   "profitRank": 15,
+   "marginRank": 15
+  },
+  "Machines": {
+   "sales": 189238.631,
+   "profit": 3384.7569,
+   "margin": 0.01788618360909618,
+   "fullPriceMargin": 0.35486561733474153,
+   "lines": 115,
+   "orders": 112,
+   "losses": -30118.6682,
+   "deepListShare": 0.5755872770002463,
+   "sub": "Machines",
+   "cat": "Technology",
+   "byYear": {
+    "2014": 369.16889999999995,
+    "2015": 2977.4856,
+    "2016": 2907.318,
+    "2017": -2869.2156
+   },
+   "salesRank": 6,
+   "profitRank": 13,
+   "marginRank": 14
+  },
+  "Copiers": {
+   "sales": 149528.03,
+   "profit": 55617.8249,
+   "margin": 0.3719558460042575,
+   "fullPriceMargin": 0.46290270570392533,
+   "lines": 68,
+   "orders": 68,
+   "losses": 0,
+   "deepListShare": 0.16128136916444866,
+   "sub": "Copiers",
+   "cat": "Technology",
+   "byYear": {
+    "2014": 2912.9433,
+    "2015": 9930.2988,
+    "2016": 17742.7926,
+    "2017": 25031.7902
+   },
+   "salesRank": 8,
+   "profitRank": 1,
+   "marginRank": 4
+  }
+ },
+ "binders": {
+  "machineLosses": -30012.34,
+  "otherLosses": -8498.15,
+  "machineShare": 0.7793289156355824,
+  "machineProducts": 17,
+  "machineLines": 118,
+  "lines": 1523,
+  "machineSalesShare": 0.7481578353307902,
+  "net": 30221.76,
+  "fullPriceMargin": 0.47792666241550597,
+  "worst": [
+   {
+    "name": "GBC DocuBind P400 Electric Binding System",
+    "state": "Texas",
+    "disc": 0.8,
+    "qty": 8,
+    "sales": 2177.58,
+    "profit": -3701.89
+   },
+   {
+    "name": "Ibico EPK-21 Electric Binding System",
+    "state": "Illinois",
+    "disc": 0.8,
+    "qty": 5,
+    "sales": 1889.99,
+    "profit": -2929.48
+   },
+   {
+    "name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+    "state": "Texas",
+    "disc": 0.8,
+    "qty": 6,
+    "sales": 1525.19,
+    "profit": -2287.78
+   }
+  ]
+ },
+ "q2": {
+  "regions": {
+   "South": {
+    "sales": 391721.905,
+    "profit": 46749.4303,
+    "margin": 0.11934341609004478,
+    "fullPriceMargin": 0.3067266730884305,
+    "lines": 1620,
+    "orders": 822,
+    "losses": -27504.832300000002,
+    "deepListShare": 0.3021288485165741,
+    "region": "South",
+    "states": 11,
+    "lossStates": [
+     "North Carolina",
+     "Tennessee",
+     "Florida"
+    ],
+    "lossStateProfit": -16231.907500000001,
+    "profitableStateProfit": 62981.3378,
+    "byYear": {
+     "2014": 11879.12,
+     "2015": 8318.594,
+     "2016": 17702.8084,
+     "2017": 8848.9079
+    }
+   },
+   "West": {
+    "sales": 725457.8245,
+    "profit": 108418.4489,
+    "margin": 0.14944831420727203,
+    "fullPriceMargin": 0.28172459793433213,
+    "lines": 3203,
+    "orders": 1611,
+    "losses": -22720.9609,
+    "deepListShare": 0.0550950175227643,
+    "region": "West",
+    "states": 11,
+    "lossStates": [
+     "Colorado",
+     "Arizona",
+     "Oregon"
+    ],
+    "lossStateProfit": -11146.253,
+    "profitableStateProfit": 119564.70190000001,
+    "byYear": {
+     "2014": 20065.6912,
+     "2015": 20492.1947,
+     "2016": 24051.6069,
+     "2017": 43808.9561
+    }
+   },
+   "Central": {
+    "sales": 501239.8908,
+    "profit": 39706.3625,
+    "margin": 0.07921628591177565,
+    "fullPriceMargin": 0.3053982627760037,
+    "lines": 2323,
+    "orders": 1175,
+    "losses": -56314.885,
+    "deepListShare": 0.3930836960024759,
+    "region": "Central",
+    "states": 13,
+    "lossStates": [
+     "Texas",
+     "Illinois"
+    ],
+    "lossStateProfit": -38337.2433,
+    "profitableStateProfit": 78043.6058,
+    "byYear": {
+     "2014": 539.5533999999996,
+     "2015": 11716.802,
+     "2016": 19899.1629,
+     "2017": 7550.8442
+    }
+   },
+   "East": {
+    "sales": 678781.24,
+    "profit": 91522.78,
+    "margin": 0.13483398568882074,
+    "fullPriceMargin": 0.3032227379545498,
+    "lines": 2848,
+    "orders": 1401,
+    "losses": -49590.6075,
+    "deepListShare": 0.31868571417655706,
+    "region": "East",
+    "states": 14,
+    "lossStates": [
+     "Ohio",
+     "Pennsylvania"
+    ],
+    "lossStateProfit": -32531.336900000002,
+    "profitableStateProfit": 124054.1169,
+    "byYear": {
+     "2014": 17059.6095,
+     "2015": 21091.013,
+     "2016": 20141.5961,
+     "2017": 33230.5614
+    }
+   }
+  },
+  "lossStates": [
+   {
+    "sales": 170188.0458,
+    "profit": -25729.3563,
+    "margin": -0.15118192455324614,
+    "fullPriceMargin": 0.29850023039302376,
+    "lines": 985,
+    "orders": 487,
+    "losses": -36813.1875,
+    "deepListShare": 0.6482158657132895,
+    "state": "Texas",
+    "region": "Central",
+    "byYear": {
+     "2014": -9135.014,
+     "2015": -2516.1825,
+     "2016": -5239.6549,
+     "2017": -8838.5049
+    },
+    "lossYears": 4,
+    "zeroDiscShare": 0.0
+   },
+   {
+    "sales": 78258.136,
+    "profit": -16971.3766,
+    "margin": -0.2168640535982099,
+    "fullPriceMargin": 0.29394474931833403,
+    "lines": 469,
+    "orders": 236,
+    "losses": -21750.0002,
+    "deepListShare": 0.7332964400338564,
+    "state": "Ohio",
+    "region": "East",
+    "byYear": {
+     "2014": -2131.0641,
+     "2015": -5500.8902,
+     "2016": -7602.8953,
+     "2017": -1736.527
+    },
+    "lossYears": 4,
+    "zeroDiscShare": 0.0
+   },
+   {
+    "sales": 116511.914,
+    "profit": -15559.9603,
+    "margin": -0.13354823353086448,
+    "fullPriceMargin": 0.2953176971883271,
+    "lines": 587,
+    "orders": 288,
+    "losses": -21602.8515,
+    "deepListShare": 0.7110590653261157,
+    "state": "Pennsylvania",
+    "region": "East",
+    "byYear": {
+     "2014": -2361.8177,
+     "2015": -3900.3451,
+     "2016": -4184.9941,
+     "2017": -5112.8034
+    },
+    "lossYears": 4,
+    "zeroDiscShare": 0.0
+   },
+   {
+    "sales": 80166.101,
+    "profit": -12607.887,
+    "margin": -0.1572720494414466,
+    "fullPriceMargin": 0.30469371152212477,
+    "lines": 492,
+    "orders": 276,
+    "losses": -19501.6975,
+    "deepListShare": 0.6007050194129534,
+    "state": "Illinois",
+    "region": "Central",
+    "byYear": {
+     "2014": -2043.7367,
+     "2015": -1009.4964,
+     "2016": -2809.0939000000003,
+     "2017": -6745.56
+    },
+    "lossYears": 4,
+    "zeroDiscShare": 0.0
+   },
+   {
+    "sales": 55603.164,
+    "profit": -7490.912200000001,
+    "margin": -0.13472097019514934,
+    "fullPriceMargin": 0.2857948440413227,
+    "lines": 249,
+    "orders": 136,
+    "losses": -11557.9854,
+    "deepListShare": 0.5650628972714689,
+    "state": "North Carolina",
+    "region": "South",
+    "byYear": {
+     "2014": -1415.0991,
+     "2015": -1248.1208,
+     "2016": 260.8411,
+     "2017": -5088.5334
+    },
+    "lossYears": 3,
+    "zeroDiscShare": 0.0
+   },
+   {
+    "sales": 32108.118,
+    "profit": -6527.8579,
+    "margin": -0.20330864300423962,
+    "fullPriceMargin": 0.2639486466884622,
+    "lines": 182,
+    "orders": 79,
+    "losses": -8900.9048,
+    "deepListShare": 0.3988285962873162,
+    "state": "Colorado",
+    "region": "West",
+    "byYear": {
+     "2014": 438.1889,
+     "2015": -1141.0659,
+     "2016": -1389.1326,
+     "2017": -4435.8483
+    },
+    "lossYears": 3,
+    "zeroDiscShare": 0.0
+   },
+   {
+    "sales": 30661.873,
+    "profit": -5341.6936,
+    "margin": -0.17421289299580622,
+    "fullPriceMargin": 0.31023818181469853,
+    "lines": 183,
+    "orders": 91,
+    "losses": -7257.0174,
+    "deepListShare": 0.5555548105162931,
+    "state": "Tennessee",
+    "region": "South",
+    "byYear": {
+     "2014": 50.02979999999999,
+     "2015": -1924.1328,
+     "2016": -163.304,
+     "2017": -3304.2866
+    },
+    "lossYears": 3,
+    "zeroDiscShare": 0.0
+   },
+   {
+    "sales": 35282.001000000004,
+    "profit": -3427.9246,
+    "margin": -0.09715788512108481,
+    "fullPriceMargin": 0.2929167031990694,
+    "lines": 224,
+    "orders": 108,
+    "losses": -6656.7675,
+    "deepListShare": 0.3694476227634863,
+    "state": "Arizona",
+    "region": "West",
+    "byYear": {
+     "2014": -903.1981,
+     "2015": 236.3835,
+     "2016": -1485.1075,
+     "2017": -1276.0025
+    },
+    "lossYears": 3,
+    "zeroDiscShare": 0.0
+   },
+   {
+    "sales": 89473.708,
+    "profit": -3399.3017,
+    "margin": -0.037992185369136594,
+    "fullPriceMargin": 0.34168843045872843,
+    "lines": 383,
+    "orders": 200,
+    "losses": -8689.8295,
+    "deepListShare": 0.5062619796666501,
+    "state": "Florida",
+    "region": "South",
+    "byYear": {
+     "2014": -1412.7599,
+     "2015": -1758.7953,
+     "2016": -471.8731,
+     "2017": 244.1266
+    },
+    "lossYears": 3,
+    "zeroDiscShare": 0.0
+   },
+   {
+    "sales": 17431.15,
+    "profit": -1190.4705,
+    "margin": -0.06829558003918272,
+    "fullPriceMargin": 0.24939212905784724,
+    "lines": 124,
+    "orders": 56,
+    "losses": -2890.4764,
+    "deepListShare": 0.24866821020995844,
+    "state": "Oregon",
+    "region": "West",
+    "byYear": {
+     "2014": -135.4049,
+     "2015": -112.09369999999998,
+     "2016": -565.8462,
+     "2017": -377.1257
+    },
+    "lossYears": 4,
+    "zeroDiscShare": 0.0
+   }
+  ],
+  "tenStateLossShare": 0.9326812179066044,
+  "tenStateLosses": -145620.7177,
+  "grossLosses": -156131.2857,
+  "cells": {
+   "Florida|Tables": {
+    "discount": 0.45,
+    "sales": 5484.974,
+    "profit": -2493.1111,
+    "lines": 11
+   },
+   "California|Furnishings": {
+    "discount": 0.0,
+    "sales": 19996.479999999996,
+    "profit": 5611.560599999997,
+    "lines": 191
+   },
+   "California|Phones": {
+    "discount": 0.2,
+    "sales": 67964.53599999998,
+    "profit": 6309.119700000007,
+    "lines": 172
+   },
+   "California|Binders": {
+    "discount": 0.2,
+    "sales": 28473.167999999994,
+    "profit": 10002.153699999999,
+    "lines": 276
+   },
+   "California|Appliances": {
+    "discount": 0.0,
+    "sales": 24175.919999999987,
+    "profit": 6992.231800000003,
+    "lines": 94
+   },
+   "California|Tables": {
+    "discount": 0.2,
+    "sales": 45430.23200000001,
+    "profit": -303.5580000000001,
+    "lines": 71
+   },
+   "North Carolina|Paper": {
+    "discount": 0.2,
+    "sales": 2594.2639999999997,
+    "profit": 898.8403000000001,
+    "lines": 36
+   },
+   "Washington|Binders": {
+    "discount": 0.2,
+    "sales": 18156.127999999997,
+    "profit": 6061.8114,
+    "lines": 86
+   },
+   "Texas|Appliances": {
+    "discount": 0.8,
+    "sales": 2407.814,
+    "profit": -6147.222500000001,
+    "lines": 47
+   },
+   "Texas|Binders": {
+    "discount": 0.8,
+    "sales": 9042.675999999998,
+    "profit": -14705.073799999993,
+    "lines": 153
+   },
+   "Pennsylvania|Chairs": {
+    "discount": 0.3,
+    "sales": 18724.174000000003,
+    "profit": -1993.4179999999997,
+    "lines": 36
+   },
+   "Pennsylvania|Bookcases": {
+    "discount": 0.5,
+    "sales": 5230.755,
+    "profit": -2896.7601000000004,
+    "lines": 10
+   },
+   "Pennsylvania|Binders": {
+    "discount": 0.7,
+    "sales": 6266.057999999998,
+    "profit": -4570.975,
+    "lines": 98
+   },
+   "Pennsylvania|Furnishings": {
+    "discount": 0.2,
+    "sales": 7347.815999999997,
+    "profit": 282.212,
+    "lines": 64
+   },
+   "Texas|Paper": {
+    "discount": 0.2,
+    "sales": 6983.456000000002,
+    "profit": 2422.9703,
+    "lines": 147
+   },
+   "Texas|Phones": {
+    "discount": 0.2,
+    "sales": 28589.568,
+    "profit": 3222.4608000000007,
+    "lines": 80
+   },
+   "Texas|Furnishings": {
+    "discount": 0.6,
+    "sales": 3766.7240000000015,
+    "profit": -3312.6786000000016,
+    "lines": 81
+   },
+   "Texas|Bookcases": {
+    "discount": 0.32,
+    "sales": 14493.458799999999,
+    "profit": -2391.1377000000007,
+    "lines": 27
+   },
+   "Texas|Chairs": {
+    "discount": 0.3,
+    "sales": 26572.447999999997,
+    "profit": -2515.648999999999,
+    "lines": 61
+   },
+   "Illinois|Phones": {
+    "discount": 0.2,
+    "sales": 16771.784,
+    "profit": 1682.6887,
+    "lines": 42
+   },
+   "New York|Phones": {
+    "discount": 0.0,
+    "sales": 47502.62000000001,
+    "profit": 13399.189200000004,
+    "lines": 109
+   },
+   "New York|Paper": {
+    "discount": 0.0,
+    "sales": 8457.259999999998,
+    "profit": 4023.079900000001,
+    "lines": 150
+   },
+   "New York|Chairs": {
+    "discount": 0.1,
+    "sales": 46634.247,
+    "profit": 7111.011899999999,
+    "lines": 76
+   },
+   "New York|Binders": {
+    "discount": 0.2,
+    "sales": 32456.911999999986,
+    "profit": 11096.025999999996,
+    "lines": 179
+   },
+   "California|Paper": {
+    "discount": 0.0,
+    "sales": 16757.94999999998,
+    "profit": 7977.539499999996,
+    "lines": 289
+   },
+   "Illinois|Chairs": {
+    "discount": 0.3,
+    "sales": 14563.178000000002,
+    "profit": -1578.6955000000003,
+    "lines": 38
+   },
+   "Arizona|Phones": {
+    "discount": 0.2,
+    "sales": 7388.776000000001,
+    "profit": 818.6727999999999,
+    "lines": 23
+   },
+   "Tennessee|Chairs": {
+    "discount": 0.2,
+    "sales": 5074.888,
+    "profit": 150.42540000000002,
+    "lines": 13
+   },
+   "Tennessee|Furnishings": {
+    "discount": 0.2,
+    "sales": 1699.2479999999998,
+    "profit": 310.6829,
+    "lines": 22
+   },
+   "Oregon|Binders": {
+    "discount": 0.7,
+    "sales": 281.06399999999996,
+    "profit": -198.74110000000002,
+    "lines": 14
+   },
+   "New York|Furnishings": {
+    "discount": 0.0,
+    "sales": 10182.319999999996,
+    "profit": 2931.4346000000005,
+    "lines": 100
+   },
+   "Illinois|Paper": {
+    "discount": 0.2,
+    "sales": 3455.8160000000003,
+    "profit": 1183.6766,
+    "lines": 60
+   },
+   "Illinois|Binders": {
+    "discount": 0.8,
+    "sales": 4538.546,
+    "profit": -7204.324200000002,
+    "lines": 80
+   },
+   "Colorado|Furnishings": {
+    "discount": 0.2,
+    "sales": 1957.568,
+    "profit": 144.1359,
+    "lines": 24
+   },
+   "Colorado|Binders": {
+    "discount": 0.7,
+    "sales": 508.968,
+    "profit": -379.49190000000004,
+    "lines": 28
+   },
+   "North Carolina|Phones": {
+    "discount": 0.2,
+    "sales": 8995.863999999998,
+    "profit": 860.4342000000001,
+    "lines": 27
+   },
+   "Ohio|Paper": {
+    "discount": 0.2,
+    "sales": 2146.2880000000005,
+    "profit": 744.0522000000002,
+    "lines": 56
+   },
+   "Washington|Tables": {
+    "discount": 0.0,
+    "sales": 25062.320000000003,
+    "profit": 4875.99,
+    "lines": 21
+   },
+   "Tennessee|Binders": {
+    "discount": 0.7,
+    "sales": 5148.042000000001,
+    "profit": -3635.9181,
+    "lines": 29
+   },
+   "Illinois|Tables": {
+    "discount": 0.5,
+    "sales": 6550.67,
+    "profit": -4309.7447,
+    "lines": 18
+   },
+   "Arizona|Binders": {
+    "discount": 0.7,
+    "sales": 2185.3530000000005,
+    "profit": -1646.7484000000002,
+    "lines": 35
+   },
+   "California|Chairs": {
+    "discount": 0.2,
+    "sales": 63079.36799999994,
+    "profit": 2435.971499999999,
+    "lines": 130
+   },
+   "Ohio|Phones": {
+    "discount": 0.4,
+    "sales": 14634.948000000002,
+    "profit": -2778.8578,
+    "lines": 47
+   },
+   "Ohio|Furnishings": {
+    "discount": 0.2,
+    "sales": 4088.6240000000007,
+    "profit": 517.4191,
+    "lines": 46
+   },
+   "Arizona|Appliances": {
+    "discount": 0.2,
+    "sales": 774.432,
+    "profit": 83.25479999999999,
+    "lines": 6
+   },
+   "Washington|Chairs": {
+    "discount": 0.2,
+    "sales": 16386.872,
+    "profit": 692.9453000000001,
+    "lines": 34
+   },
+   "Texas|Machines": {
+    "discount": 0.4,
+    "sales": 19546.224000000002,
+    "profit": -2666.8434,
+    "lines": 13
+   },
+   "Illinois|Appliances": {
+    "discount": 0.8,
+    "sales": 974.72,
+    "profit": -2482.4187,
+    "lines": 20
+   },
+   "Ohio|Chairs": {
+    "discount": 0.3,
+    "sales": 10145.701999999997,
+    "profit": -649.3542,
+    "lines": 23
+   },
+   "New York|Bookcases": {
+    "discount": 0.2,
+    "sales": 22777.143999999993,
+    "profit": 350.8744000000001,
+    "lines": 32
+   },
+   "Pennsylvania|Paper": {
+    "discount": 0.2,
+    "sales": 2378.304000000001,
+    "profit": 813.0179,
+    "lines": 66
+   },
+   "Colorado|Tables": {
+    "discount": 0.5,
+    "sales": 1457.13,
+    "profit": -974.8753999999999,
+    "lines": 4
+   },
+   "Colorado|Appliances": {
+    "discount": 0.2,
+    "sales": 1367.2959999999998,
+    "profit": 141.4207,
+    "lines": 9
+   },
+   "Ohio|Bookcases": {
+    "discount": 0.5,
+    "sales": 2077.705,
+    "profit": -1359.0515999999998,
+    "lines": 8
+   },
+   "Ohio|Machines": {
+    "discount": 0.7,
+    "sales": 8978.238000000001,
+    "profit": -11770.944699999998,
+    "lines": 8
+   },
+   "Ohio|Binders": {
+    "discount": 0.7,
+    "sales": 1917.0870000000004,
+    "profit": -1400.6681000000003,
+    "lines": 73
+   },
+   "North Carolina|Binders": {
+    "discount": 0.7,
+    "sales": 2562.3209999999995,
+    "profit": -2007.8254,
+    "lines": 36
+   },
+   "Florida|Binders": {
+    "discount": 0.7,
+    "sales": 3690.498,
+    "profit": -2760.730399999999,
+    "lines": 67
+   },
+   "Florida|Furnishings": {
+    "discount": 0.2,
+    "sales": 3746.192000000002,
+    "profit": 391.7596,
+    "lines": 47
+   },
+   "Illinois|Furnishings": {
+    "discount": 0.6,
+    "sales": 2877.9759999999997,
+    "profit": -2631.9766000000004,
+    "lines": 57
+   },
+   "Oregon|Paper": {
+    "discount": 0.2,
+    "sales": 953.352,
+    "profit": 324.05800000000005,
+    "lines": 21
+   },
+   "Florida|Appliances": {
+    "discount": 0.2,
+    "sales": 3558.4399999999996,
+    "profit": 349.7564,
+    "lines": 18
+   },
+   "Colorado|Chairs": {
+    "discount": 0.2,
+    "sales": 8244.816,
+    "profit": 556.5216,
+    "lines": 14
+   },
+   "Florida|Phones": {
+    "discount": 0.2,
+    "sales": 15092.184,
+    "profit": 1354.7556999999997,
+    "lines": 34
+   },
+   "Florida|Paper": {
+    "discount": 0.2,
+    "sales": 2425.56,
+    "profit": 833.0004000000001,
+    "lines": 51
+   },
+   "New York|Machines": {
+    "discount": 0.0,
+    "sales": 43183.5,
+    "profit": 17320.076200000003,
+    "lines": 16
+   },
+   "Pennsylvania|Phones": {
+    "discount": 0.4,
+    "sales": 19702.404000000002,
+    "profit": -3606.927599999999,
+    "lines": 62
+   },
+   "Pennsylvania|Machines": {
+    "discount": 0.7,
+    "sales": 2133.717,
+    "profit": -2219.2456,
+    "lines": 7
+   },
+   "Washington|Phones": {
+    "discount": 0.2,
+    "sales": 9101.568,
+    "profit": 698.582,
+    "lines": 35
+   },
+   "New York|Appliances": {
+    "discount": 0.0,
+    "sales": 13276.379999999996,
+    "profit": 3807.7644999999998,
+    "lines": 44
+   },
+   "California|Bookcases": {
+    "discount": 0.15,
+    "sales": 27558.521500000006,
+    "profit": 1418.9915,
+    "lines": 52
+   },
+   "Washington|Paper": {
+    "discount": 0.0,
+    "sales": 3318.7400000000007,
+    "profit": 1570.4083000000005,
+    "lines": 59
+   },
+   "Illinois|Machines": {
+    "discount": 0.3,
+    "sales": 3756.3050000000003,
+    "profit": 326.0395,
+    "lines": 5
+   },
+   "Ohio|Tables": {
+    "discount": 0.4,
+    "sales": 7887.1140000000005,
+    "profit": -2715.3345,
+    "lines": 16
+   },
+   "Washington|Appliances": {
+    "discount": 0.0,
+    "sales": 1969.3500000000004,
+    "profit": 591.8608,
+    "lines": 17
+   },
+   "Arizona|Furnishings": {
+    "discount": 0.2,
+    "sales": 2511.648,
+    "profit": 284.5497000000001,
+    "lines": 21
+   },
+   "Arizona|Tables": {
+    "discount": 0.5,
+    "sales": 3995.35,
+    "profit": -2281.8701,
+    "lines": 9
+   },
+   "Tennessee|Tables": {
+    "discount": 0.4,
+    "sales": 6214.356,
+    "profit": -2663.4138,
+    "lines": 8
+   },
+   "Colorado|Paper": {
+    "discount": 0.2,
+    "sales": 883.2160000000003,
+    "profit": 298.5882,
+    "lines": 19
+   },
+   "Florida|Chairs": {
+    "discount": 0.2,
+    "sales": 11168.816,
+    "profit": -37.558599999999956,
+    "lines": 19
+   },
+   "Colorado|Phones": {
+    "discount": 0.2,
+    "sales": 4924.656000000001,
+    "profit": 523.1145,
+    "lines": 16
+   },
+   "Oregon|Phones": {
+    "discount": 0.2,
+    "sales": 4451.336,
+    "profit": 248.15030000000002,
+    "lines": 15
+   },
+   "Washington|Furnishings": {
+    "discount": 0.0,
+    "sales": 3426.5000000000005,
+    "profit": 1054.8442999999997,
+    "lines": 49
+   },
+   "Ohio|Appliances": {
+    "discount": 0.2,
+    "sales": 4807.536,
+    "profit": 486.25530000000003,
+    "lines": 23
+   },
+   "Texas|Tables": {
+    "discount": 0.3,
+    "sales": 15760.661,
+    "profit": -2216.6766000000002,
+    "lines": 33
+   },
+   "North Carolina|Machines": {
+    "discount": 0.5,
+    "sales": 12620.655,
+    "profit": -5384.8086,
+    "lines": 4
+   },
+   "North Carolina|Appliances": {
+    "discount": 0.2,
+    "sales": 4137.552,
+    "profit": 485.67460000000005,
+    "lines": 17
+   },
+   "New York|Tables": {
+    "discount": 0.4,
+    "sales": 13779.017999999996,
+    "profit": -4535.6408,
+    "lines": 28
+   },
+   "Washington|Bookcases": {
+    "discount": 0.0,
+    "sales": 3144.46,
+    "profit": 570.0053999999999,
+    "lines": 10
+   },
+   "Florida|Machines": {
+    "discount": 0.5,
+    "sales": 24573.940000000002,
+    "profit": -1976.0110000000002,
+    "lines": 6
+   },
+   "Tennessee|Paper": {
+    "discount": 0.2,
+    "sales": 1060.32,
+    "profit": 363.8583,
+    "lines": 26
+   },
+   "Pennsylvania|Appliances": {
+    "discount": 0.2,
+    "sales": 4663.28,
+    "profit": 694.2150000000001,
+    "lines": 23
+   },
+   "Pennsylvania|Tables": {
+    "discount": 0.4,
+    "sales": 8052.186000000001,
+    "profit": -2588.7538000000004,
+    "lines": 15
+   },
+   "Arizona|Paper": {
+    "discount": 0.2,
+    "sales": 2440.760000000001,
+    "profit": 842.0393999999999,
+    "lines": 31
+   },
+   "North Carolina|Furnishings": {
+    "discount": 0.2,
+    "sales": 1791.104,
+    "profit": 153.0447,
+    "lines": 19
+   },
+   "California|Machines": {
+    "discount": 0.2,
+    "sales": 29492.016000000003,
+    "profit": 4175.4087,
+    "lines": 23
+   },
+   "Arizona|Machines": {
+    "discount": 0.7,
+    "sales": 965.9490000000001,
+    "profit": -930.941,
+    "lines": 3
+   },
+   "Arizona|Chairs": {
+    "discount": 0.2,
+    "sales": 6499.079999999999,
+    "profit": 121.6049,
+    "lines": 16
+   },
+   "Colorado|Bookcases": {
+    "discount": 0.7,
+    "sales": 1583.5230000000001,
+    "profit": -2408.9163,
+    "lines": 9
+   },
+   "Illinois|Bookcases": {
+    "discount": 0.3,
+    "sales": 4282.698,
+    "profit": -555.8726,
+    "lines": 10
+   },
+   "Oregon|Furnishings": {
+    "discount": 0.2,
+    "sales": 468.464,
+    "profit": 72.026,
+    "lines": 5
+   },
+   "North Carolina|Chairs": {
+    "discount": 0.2,
+    "sales": 2723.5919999999996,
+    "profit": 142.7239,
+    "lines": 11
+   },
+   "Oregon|Chairs": {
+    "discount": 0.2,
+    "sales": 3841.1600000000003,
+    "profit": 106.11000000000001,
+    "lines": 8
+   },
+   "Tennessee|Appliances": {
+    "discount": 0.2,
+    "sales": 1914.984,
+    "profit": 203.1673,
+    "lines": 10
+   },
+   "North Carolina|Bookcases": {
+    "discount": 0.2,
+    "sales": 959.0559999999999,
+    "profit": -97.978,
+    "lines": 4
+   },
+   "Oregon|Tables": {
+    "discount": 0.5,
+    "sales": 1671.8600000000001,
+    "profit": -1048.8971,
+    "lines": 5
+   },
+   "Colorado|Machines": {
+    "discount": 0.7,
+    "sales": 3313.6890000000003,
+    "profit": -4384.2554,
+    "lines": 3
+   },
+   "Washington|Machines": {
+    "discount": 0.2,
+    "sales": 6066.152000000001,
+    "profit": 615.0637,
+    "lines": 7
+   },
+   "North Carolina|Tables": {
+    "discount": 0.4,
+    "sales": 9681.732,
+    "profit": -3684.2538999999997,
+    "lines": 8
+   },
+   "Tennessee|Phones": {
+    "discount": 0.2,
+    "sales": 3656.2400000000002,
+    "profit": 305.2247,
+    "lines": 9
+   },
+   "Florida|Bookcases": {
+    "discount": 0.2,
+    "sales": 2587.056,
+    "profit": -116.0706,
+    "lines": 8
+   },
+   "Arizona|Bookcases": {
+    "discount": 0.7,
+    "sales": 519.213,
+    "profit": -869.2072999999999,
+    "lines": 3
+   },
+   "Oregon|Appliances": {
+    "discount": 0.2,
+    "sales": 535.768,
+    "profit": 54.0856,
+    "lines": 6
+   },
+   "Oregon|Bookcases": {
+    "discount": 0.7,
+    "sales": 356.64599999999996,
+    "profit": -616.8158,
+    "lines": 3
+   },
+   "Tennessee|Machines": {
+    "discount": 0.5,
+    "sales": 740.475,
+    "profit": -274.4095,
+    "lines": 2
+   },
+   "Oregon|Machines": {
+    "discount": 0.7,
+    "sales": 209.91600000000003,
+    "profit": -273.93240000000003,
+    "lines": 2
+   },
+   "Tennessee|Bookcases": {
+    "discount": 0.2,
+    "sales": 518.24,
+    "profit": -6.323599999999999,
+    "lines": 2
+   }
+  },
+  "matrixStates": [
+   "Texas",
+   "Ohio",
+   "Pennsylvania",
+   "Illinois",
+   "North Carolina",
+   "Colorado",
+   "Tennessee",
+   "Arizona",
+   "Florida",
+   "Oregon",
+   "California",
+   "New York",
+   "Washington"
+  ],
+  "matrixSubs": [
+   "Binders",
+   "Tables",
+   "Machines",
+   "Bookcases",
+   "Chairs",
+   "Appliances",
+   "Furnishings",
+   "Phones",
+   "Paper"
+  ],
+  "sameCustomer": {
+   "customers": 434,
+   "marginNever": 0.30214087500486086,
+   "marginNeverFull": -0.14158277614805648,
+   "neverStates": 21,
+   "neverFullStates": 11
+  },
+  "deepLines": 1393,
+  "lines": 9994,
+  "deepLineShare": 0.13938363017810687,
+  "deepLossShare": 0.8871716022767627,
+  "deepProfit": -135376.056,
+  "stateCount": 49
+ },
+ "ship": [
+  {
+   "mode": "First Class",
+   "sales": 351428.4229,
+   "profit": 48969.8399,
+   "margin": 0.13934513177932256,
+   "orders": 787,
+   "lines": 1538,
+   "qty": 5693,
+   "lo": 0.09602380429986732,
+   "hi": 0.18166147164551574,
+   "aov": 446.5418334180432,
+   "salesShare": 0.15298114717496045,
+   "profitShare": 0.1709858559608059,
+   "orderShare": 0.15711718905969255
+  },
+  {
+   "mode": "Same Day",
+   "sales": 128363.125,
+   "profit": 15891.758899999999,
+   "margin": 0.12380314751607986,
+   "orders": 264,
+   "lines": 543,
+   "qty": 1960,
+   "lo": 0.036158670915452454,
+   "hi": 0.1927431173654948,
+   "aov": 486.2239583333333,
+   "salesShare": 0.055878058910023475,
+   "profitShare": 0.055488562016704795,
+   "orderShare": 0.05270513076462368
+  },
+  {
+   "mode": "Second Class",
+   "sales": 459193.5694,
+   "profit": 57446.6354,
+   "margin": 0.1251033098635549,
+   "orders": 964,
+   "lines": 1945,
+   "qty": 7423,
+   "lo": 0.09842808327112913,
+   "hi": 0.15127057840765404,
+   "aov": 476.34187697095433,
+   "salesShare": 0.1998926508063523,
+   "profitShare": 0.20058391340457157,
+   "orderShare": 0.1924535835496107
+  },
+  {
+   "mode": "Standard Class",
+   "sales": 1358215.743,
+   "profit": 164088.7875,
+   "margin": 0.12081201999438171,
+   "orders": 2994,
+   "lines": 5968,
+   "qty": 22797,
+   "lo": 0.09288278777065918,
+   "hi": 0.1464194795880263,
+   "aov": 453.645872745491,
+   "salesShare": 0.5912481431086638,
+   "profitShare": 0.5729416686179178,
+   "orderShare": 0.5977240966260731
+  }
+ ],
+ "years": [
+  2014,
+  2015,
+  2016,
+  2017
+ ]
+}

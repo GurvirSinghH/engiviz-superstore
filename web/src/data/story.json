@@ -1,0 +1,6271 @@
+{
+ "totals": {
+  "sales": 2297200.86,
+  "profit": 286397.02,
+  "margin": 0.12467217240315605,
+  "lines": 9994,
+  "orders": 5009,
+  "grossGains": 442528.31,
+  "grossLosses": -156131.29,
+  "lossLines": 1871,
+  "deepLines": 1393,
+  "deepLineShare": 0.13938363017810687,
+  "deepProfit": -135376.06,
+  "deepGrossLosses": -138515.24,
+  "deepLossShare": 0.8871716022767627,
+  "deepListShare": 0.25400416554140837,
+  "shallowLines": 8601,
+  "shallowProfit": 421773.08,
+  "shallowMargin": 0.2180347300167617,
+  "zeroDiscLossLines": 0,
+  "zeroDiscLines": 4798
+ },
+ "byLevel": [
+  {
+   "discount": 0.0,
+   "lines": 4798,
+   "sales": 1087908.47,
+   "profit": 320987.6,
+   "listVal": 1087908.47,
+   "losses": 0.0,
+   "margin": 0.29505019222803036
+  },
+  {
+   "discount": 0.1,
+   "lines": 94,
+   "sales": 54369.35,
+   "profit": 9029.18,
+   "listVal": 60410.39,
+   "losses": -29.27,
+   "margin": 0.16607108295259945
+  },
+  {
+   "discount": 0.15,
+   "lines": 52,
+   "sales": 27558.52,
+   "profit": 1418.99,
+   "listVal": 32421.79,
+   "losses": -328.7,
+   "margin": 0.05149011713128369
+  },
+  {
+   "discount": 0.2,
+   "lines": 3657,
+   "sales": 764594.37,
+   "profit": 90337.31,
+   "listVal": 955742.96,
+   "losses": -17258.07,
+   "margin": 0.11815062964209475
+  },
+  {
+   "discount": 0.3,
+   "lines": 227,
+   "sales": 103226.65,
+   "profit": -10369.28,
+   "listVal": 147466.65,
+   "losses": -10777.69,
+   "margin": -0.10045154906937563
+  },
+  {
+   "discount": 0.32,
+   "lines": 27,
+   "sales": 14493.46,
+   "profit": -2391.14,
+   "listVal": 21313.91,
+   "losses": -2391.14,
+   "margin": -0.1649804738120897
+  },
+  {
+   "discount": 0.4,
+   "lines": 206,
+   "sales": 116417.78,
+   "profit": -23057.05,
+   "listVal": 194029.64,
+   "losses": -25787.83,
+   "margin": -0.19805436598930617
+  },
+  {
+   "discount": 0.45,
+   "lines": 11,
+   "sales": 5484.97,
+   "profit": -2493.11,
+   "listVal": 9972.68,
+   "losses": -2493.11,
+   "margin": -0.45453471611715934
+  },
+  {
+   "discount": 0.5,
+   "lines": 66,
+   "sales": 58918.54,
+   "profit": -20506.43,
+   "listVal": 117837.08,
+   "losses": -20506.43,
+   "margin": -0.3480471189544073
+  },
+  {
+   "discount": 0.6,
+   "lines": 138,
+   "sales": 6644.7,
+   "profit": -5944.66,
+   "listVal": 16611.75,
+   "losses": -5944.66,
+   "margin": -0.8946461390280975
+  },
+  {
+   "discount": 0.7,
+   "lines": 418,
+   "sales": 40620.28,
+   "profit": -40075.36,
+   "listVal": 135400.94,
+   "losses": -40075.36,
+   "margin": -0.9865849011092511
+  },
+  {
+   "discount": 0.8,
+   "lines": 300,
+   "sales": 16963.76,
+   "profit": -30539.04,
+   "listVal": 84818.78,
+   "losses": -30539.04,
+   "margin": -1.8002522082963233
+  }
+ ],
+ "where": {
+  "cells": [
+   {
+    "state": "Kentucky",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 261.96,
+    "profit": 41.91,
+    "lines": 1
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 9233.57,
+    "profit": 2552.26,
+    "lines": 16
+   },
+   {
+    "state": "California",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 2899.14,
+    "profit": 1370.12,
+    "lines": 83
+   },
+   {
+    "state": "Florida",
+    "sub": "Tables",
+    "discount": 0.45,
+    "sales": 5484.97,
+    "profit": -2493.11,
+    "lines": 11
+   },
+   {
+    "state": "Florida",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 7419.26,
+    "profit": -203.11,
+    "lines": 25
+   },
+   {
+    "state": "California",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 19996.48,
+    "profit": 5611.56,
+    "lines": 191
+   },
+   {
+    "state": "California",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 5495.66,
+    "profit": 1614.84,
+    "lines": 165
+   },
+   {
+    "state": "California",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 67964.54,
+    "profit": 6309.12,
+    "lines": 172
+   },
+   {
+    "state": "California",
+    "sub": "Binders",
+    "discount": 0.2,
+    "sales": 28473.17,
+    "profit": 10002.15,
+    "lines": 276
+   },
+   {
+    "state": "California",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 24175.92,
+    "profit": 6992.23,
+    "lines": 94
+   },
+   {
+    "state": "California",
+    "sub": "Tables",
+    "discount": 0.2,
+    "sales": 45430.23,
+    "profit": -303.56,
+    "lines": 71
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 2594.26,
+    "profit": 898.84,
+    "lines": 36
+   },
+   {
+    "state": "Washington",
+    "sub": "Binders",
+    "discount": 0.2,
+    "sales": 18156.13,
+    "profit": 6061.81,
+    "lines": 86
+   },
+   {
+    "state": "Texas",
+    "sub": "Appliances",
+    "discount": 0.8,
+    "sales": 2407.81,
+    "profit": -6147.22,
+    "lines": 47
+   },
+   {
+    "state": "Texas",
+    "sub": "Binders",
+    "discount": 0.8,
+    "sales": 9042.68,
+    "profit": -14705.07,
+    "lines": 153
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 1007.16,
+    "profit": 105.39,
+    "lines": 9
+   },
+   {
+    "state": "Utah",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 901.58,
+    "profit": 153.77,
+    "lines": 6
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 19.46,
+    "profit": 5.06,
+    "lines": 1
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 500.57,
+    "profit": 170.18,
+    "lines": 4
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Chairs",
+    "discount": 0.3,
+    "sales": 18724.17,
+    "profit": -1993.42,
+    "lines": 36
+   },
+   {
+    "state": "Utah",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 1957.38,
+    "profit": 358.92,
+    "lines": 2
+   },
+   {
+    "state": "California",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 37255.01,
+    "profit": 11095.66,
+    "lines": 147
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Bookcases",
+    "discount": 0.5,
+    "sales": 5230.76,
+    "profit": -2896.76,
+    "lines": 10
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Binders",
+    "discount": 0.7,
+    "sales": 6266.06,
+    "profit": -4570.98,
+    "lines": 98
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Furnishings",
+    "discount": 0.2,
+    "sales": 7347.82,
+    "profit": 282.21,
+    "lines": 64
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 1234.06,
+    "profit": 417.1,
+    "lines": 18
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 1152.16,
+    "profit": 137.76,
+    "lines": 40
+   },
+   {
+    "state": "Texas",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 6983.46,
+    "profit": 2422.97,
+    "lines": 147
+   },
+   {
+    "state": "Texas",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 28589.57,
+    "profit": 3222.46,
+    "lines": 80
+   },
+   {
+    "state": "Texas",
+    "sub": "Furnishings",
+    "discount": 0.6,
+    "sales": 3766.72,
+    "profit": -3312.68,
+    "lines": 81
+   },
+   {
+    "state": "Texas",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 2530.65,
+    "profit": 848.18,
+    "lines": 30
+   },
+   {
+    "state": "Texas",
+    "sub": "Bookcases",
+    "discount": 0.32,
+    "sales": 14493.46,
+    "profit": -2391.14,
+    "lines": 27
+   },
+   {
+    "state": "Texas",
+    "sub": "Chairs",
+    "discount": 0.3,
+    "sales": 26572.45,
+    "profit": -2515.65,
+    "lines": 61
+   },
+   {
+    "state": "Illinois",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 16771.78,
+    "profit": 1682.69,
+    "lines": 42
+   },
+   {
+    "state": "California",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 45112.29,
+    "profit": 7204.14,
+    "lines": 160
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 1520.38,
+    "profit": 556.72,
+    "lines": 8
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 12470.24,
+    "profit": 6041.28,
+    "lines": 16
+   },
+   {
+    "state": "Michigan",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 6187.48,
+    "profit": 940.41,
+    "lines": 24
+   },
+   {
+    "state": "Delaware",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 561.69,
+    "profit": 175.7,
+    "lines": 5
+   },
+   {
+    "state": "Delaware",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 3434.59,
+    "profit": 992.36,
+    "lines": 13
+   },
+   {
+    "state": "Indiana",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 4011.88,
+    "profit": 1827.16,
+    "lines": 19
+   },
+   {
+    "state": "Indiana",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 276.21,
+    "profit": 134.21,
+    "lines": 5
+   },
+   {
+    "state": "Indiana",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 1514.48,
+    "profit": 180.79,
+    "lines": 13
+   },
+   {
+    "state": "Indiana",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 6463.39,
+    "profit": 1587.56,
+    "lines": 7
+   },
+   {
+    "state": "New York",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 286.51,
+    "profit": 116.67,
+    "lines": 21
+   },
+   {
+    "state": "New York",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 47502.62,
+    "profit": 13399.19,
+    "lines": 109
+   },
+   {
+    "state": "New York",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 26928.35,
+    "profit": 4338.22,
+    "lines": 98
+   },
+   {
+    "state": "New York",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 8457.26,
+    "profit": 4023.08,
+    "lines": 150
+   },
+   {
+    "state": "New York",
+    "sub": "Chairs",
+    "discount": 0.1,
+    "sales": 46634.25,
+    "profit": 7111.01,
+    "lines": 76
+   },
+   {
+    "state": "New York",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 19597.54,
+    "profit": 5627.57,
+    "lines": 76
+   },
+   {
+    "state": "New York",
+    "sub": "Binders",
+    "discount": 0.2,
+    "sales": 32456.91,
+    "profit": 11096.03,
+    "lines": 179
+   },
+   {
+    "state": "New York",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 2983.6,
+    "profit": 902.09,
+    "lines": 90
+   },
+   {
+    "state": "California",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 16757.95,
+    "profit": 7977.54,
+    "lines": 289
+   },
+   {
+    "state": "Illinois",
+    "sub": "Chairs",
+    "discount": 0.3,
+    "sales": 14563.18,
+    "profit": -1578.7,
+    "lines": 38
+   },
+   {
+    "state": "Arizona",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 1389.15,
+    "profit": 140.94,
+    "lines": 14
+   },
+   {
+    "state": "Arizona",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 7388.78,
+    "profit": 818.67,
+    "lines": 23
+   },
+   {
+    "state": "Virginia",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 1205.7,
+    "profit": 570.43,
+    "lines": 26
+   },
+   {
+    "state": "Michigan",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 2010.74,
+    "profit": 961.39,
+    "lines": 31
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 5074.89,
+    "profit": 150.43,
+    "lines": 13
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Furnishings",
+    "discount": 0.2,
+    "sales": 1699.25,
+    "profit": 310.68,
+    "lines": 22
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 3310.86,
+    "profit": -333.57,
+    "lines": 18
+   },
+   {
+    "state": "Texas",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 15723.58,
+    "profit": -763.71,
+    "lines": 83
+   },
+   {
+    "state": "Alabama",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 208.16,
+    "profit": 56.2,
+    "lines": 1
+   },
+   {
+    "state": "Alabama",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 466.82,
+    "profit": 227.77,
+    "lines": 10
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 431.14,
+    "profit": 139.71,
+    "lines": 6
+   },
+   {
+    "state": "Illinois",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 9080.33,
+    "profit": -257.46,
+    "lines": 47
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 2537.94,
+    "profit": 543.08,
+    "lines": 3
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 161.05,
+    "profit": 76.89,
+    "lines": 6
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 319.88,
+    "profit": 155.51,
+    "lines": 11
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 231.52,
+    "profit": 49.53,
+    "lines": 5
+   },
+   {
+    "state": "Oregon",
+    "sub": "Binders",
+    "discount": 0.7,
+    "sales": 281.06,
+    "profit": -198.74,
+    "lines": 14
+   },
+   {
+    "state": "New York",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 10182.32,
+    "profit": 2931.43,
+    "lines": 100
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 2844.13,
+    "profit": 863.85,
+    "lines": 6
+   },
+   {
+    "state": "Illinois",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 3455.82,
+    "profit": 1183.68,
+    "lines": 60
+   },
+   {
+    "state": "Illinois",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 5535.7,
+    "profit": 981.86,
+    "lines": 33
+   },
+   {
+    "state": "Illinois",
+    "sub": "Binders",
+    "discount": 0.8,
+    "sales": 4538.55,
+    "profit": -7204.32,
+    "lines": 80
+   },
+   {
+    "state": "Colorado",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 2287.99,
+    "profit": 224.56,
+    "lines": 15
+   },
+   {
+    "state": "Colorado",
+    "sub": "Furnishings",
+    "discount": 0.2,
+    "sales": 1957.57,
+    "profit": 144.14,
+    "lines": 24
+   },
+   {
+    "state": "Colorado",
+    "sub": "Binders",
+    "discount": 0.7,
+    "sales": 508.97,
+    "profit": -379.49,
+    "lines": 28
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 3506.63,
+    "profit": 821.07,
+    "lines": 19
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 8995.86,
+    "profit": 860.43,
+    "lines": 27
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 603.39,
+    "profit": 78.92,
+    "lines": 26
+   },
+   {
+    "state": "Iowa",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 146.58,
+    "profit": 45.49,
+    "lines": 3
+   },
+   {
+    "state": "Iowa",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 247.96,
+    "profit": 118.72,
+    "lines": 8
+   },
+   {
+    "state": "Ohio",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 204.9,
+    "profit": 61.12,
+    "lines": 14
+   },
+   {
+    "state": "Ohio",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 562.0,
+    "profit": 194.61,
+    "lines": 12
+   },
+   {
+    "state": "Ohio",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 2146.29,
+    "profit": 744.05,
+    "lines": 56
+   },
+   {
+    "state": "Washington",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 25062.32,
+    "profit": 4875.99,
+    "lines": 21
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Binders",
+    "discount": 0.7,
+    "sales": 5148.04,
+    "profit": -3635.92,
+    "lines": 29
+   },
+   {
+    "state": "Delaware",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 637.39,
+    "profit": 137.53,
+    "lines": 10
+   },
+   {
+    "state": "Delaware",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 2434.03,
+    "profit": 1159.6,
+    "lines": 16
+   },
+   {
+    "state": "Delaware",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 4179.42,
+    "profit": 1119.38,
+    "lines": 7
+   },
+   {
+    "state": "Delaware",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 299.23,
+    "profit": 138.34,
+    "lines": 4
+   },
+   {
+    "state": "Illinois",
+    "sub": "Tables",
+    "discount": 0.5,
+    "sales": 6550.67,
+    "profit": -4309.74,
+    "lines": 18
+   },
+   {
+    "state": "Arizona",
+    "sub": "Binders",
+    "discount": 0.7,
+    "sales": 2185.35,
+    "profit": -1646.75,
+    "lines": 35
+   },
+   {
+    "state": "Arizona",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 2590.38,
+    "profit": -271.17,
+    "lines": 21
+   },
+   {
+    "state": "California",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 63079.37,
+    "profit": 2435.97,
+    "lines": 130
+   },
+   {
+    "state": "Ohio",
+    "sub": "Phones",
+    "discount": 0.4,
+    "sales": 14634.95,
+    "profit": -2778.86,
+    "lines": 47
+   },
+   {
+    "state": "California",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 479.53,
+    "profit": 195.75,
+    "lines": 42
+   },
+   {
+    "state": "California",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 15720.95,
+    "profit": 862.2,
+    "lines": 43
+   },
+   {
+    "state": "California",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 3237.34,
+    "profit": 1529.42,
+    "lines": 46
+   },
+   {
+    "state": "Missouri",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 3670.43,
+    "profit": 1226.03,
+    "lines": 7
+   },
+   {
+    "state": "Ohio",
+    "sub": "Furnishings",
+    "discount": 0.2,
+    "sales": 4088.62,
+    "profit": 517.42,
+    "lines": 46
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 4002.68,
+    "profit": 1095.9,
+    "lines": 11
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 11494.95,
+    "profit": 2737.42,
+    "lines": 12
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 588.39,
+    "profit": 282.76,
+    "lines": 13
+   },
+   {
+    "state": "Arizona",
+    "sub": "Appliances",
+    "discount": 0.2,
+    "sales": 774.43,
+    "profit": 83.25,
+    "lines": 6
+   },
+   {
+    "state": "Washington",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 1063.84,
+    "profit": 320.17,
+    "lines": 34
+   },
+   {
+    "state": "Washington",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 16386.87,
+    "profit": 692.95,
+    "lines": 34
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 64.24,
+    "profit": 31.19,
+    "lines": 3
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 4550.98,
+    "profit": 1185.21,
+    "lines": 9
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 7299.28,
+    "profit": 898.97,
+    "lines": 45
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 28.4,
+    "profit": 13.35,
+    "lines": 1
+   },
+   {
+    "state": "Texas",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 2369.53,
+    "profit": 316.35,
+    "lines": 71
+   },
+   {
+    "state": "Texas",
+    "sub": "Machines",
+    "discount": 0.4,
+    "sales": 19546.22,
+    "profit": -2666.84,
+    "lines": 13
+   },
+   {
+    "state": "Illinois",
+    "sub": "Appliances",
+    "discount": 0.8,
+    "sales": 974.72,
+    "profit": -2482.42,
+    "lines": 20
+   },
+   {
+    "state": "Illinois",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 224.87,
+    "profit": 77.46,
+    "lines": 13
+   },
+   {
+    "state": "Ohio",
+    "sub": "Chairs",
+    "discount": 0.3,
+    "sales": 10145.7,
+    "profit": -649.35,
+    "lines": 23
+   },
+   {
+    "state": "Ohio",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 478.81,
+    "profit": -82.9,
+    "lines": 7
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 683.07,
+    "profit": 181.47,
+    "lines": 3
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 1667.8,
+    "profit": 593.56,
+    "lines": 7
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 371.87,
+    "profit": 176.28,
+    "lines": 14
+   },
+   {
+    "state": "New York",
+    "sub": "Bookcases",
+    "discount": 0.2,
+    "sales": 22777.14,
+    "profit": 350.87,
+    "lines": 32
+   },
+   {
+    "state": "Ohio",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 840.1,
+    "profit": 103.24,
+    "lines": 39
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 4669.08,
+    "profit": 779.11,
+    "lines": 9
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 2378.3,
+    "profit": 813.02,
+    "lines": 66
+   },
+   {
+    "state": "Colorado",
+    "sub": "Tables",
+    "discount": 0.5,
+    "sales": 1457.13,
+    "profit": -974.88,
+    "lines": 4
+   },
+   {
+    "state": "Colorado",
+    "sub": "Appliances",
+    "discount": 0.2,
+    "sales": 1367.3,
+    "profit": 141.42,
+    "lines": 9
+   },
+   {
+    "state": "Michigan",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 6731.28,
+    "profit": 1810.17,
+    "lines": 27
+   },
+   {
+    "state": "Michigan",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 22821.97,
+    "profit": 11079.51,
+    "lines": 43
+   },
+   {
+    "state": "Michigan",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 109.5,
+    "profit": 42.76,
+    "lines": 5
+   },
+   {
+    "state": "Texas",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 11328.56,
+    "profit": 1105.85,
+    "lines": 81
+   },
+   {
+    "state": "Ohio",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 161.84,
+    "profit": 55.52,
+    "lines": 13
+   },
+   {
+    "state": "Ohio",
+    "sub": "Bookcases",
+    "discount": 0.5,
+    "sales": 2077.7,
+    "profit": -1359.05,
+    "lines": 8
+   },
+   {
+    "state": "Ohio",
+    "sub": "Machines",
+    "discount": 0.7,
+    "sales": 8978.24,
+    "profit": -11770.94,
+    "lines": 8
+   },
+   {
+    "state": "Ohio",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 8222.87,
+    "profit": 1452.87,
+    "lines": 43
+   },
+   {
+    "state": "Ohio",
+    "sub": "Binders",
+    "discount": 0.7,
+    "sales": 1917.09,
+    "profit": -1400.67,
+    "lines": 73
+   },
+   {
+    "state": "Michigan",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 1004.86,
+    "profit": 301.37,
+    "lines": 25
+   },
+   {
+    "state": "Michigan",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 5716.58,
+    "profit": 1087.88,
+    "lines": 7
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Binders",
+    "discount": 0.7,
+    "sales": 2562.32,
+    "profit": -2007.83,
+    "lines": 36
+   },
+   {
+    "state": "Florida",
+    "sub": "Binders",
+    "discount": 0.7,
+    "sales": 3690.5,
+    "profit": -2760.73,
+    "lines": 67
+   },
+   {
+    "state": "Florida",
+    "sub": "Furnishings",
+    "discount": 0.2,
+    "sales": 3746.19,
+    "profit": 391.76,
+    "lines": 47
+   },
+   {
+    "state": "Florida",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 5861.94,
+    "profit": 750.07,
+    "lines": 27
+   },
+   {
+    "state": "Illinois",
+    "sub": "Furnishings",
+    "discount": 0.6,
+    "sales": 2877.98,
+    "profit": -2631.98,
+    "lines": 57
+   },
+   {
+    "state": "Illinois",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 930.03,
+    "profit": 138.95,
+    "lines": 37
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 6079.37,
+    "profit": 1703.91,
+    "lines": 6
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 3397.73,
+    "profit": 561.31,
+    "lines": 14
+   },
+   {
+    "state": "New York",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 1776.83,
+    "profit": 831.03,
+    "lines": 32
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 54.12,
+    "profit": 15.11,
+    "lines": 5
+   },
+   {
+    "state": "Ohio",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 7264.44,
+    "profit": -276.34,
+    "lines": 37
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 11784.62,
+    "profit": -1434.31,
+    "lines": 49
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 598.3,
+    "profit": 201.42,
+    "lines": 23
+   },
+   {
+    "state": "Oregon",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 953.35,
+    "profit": 324.06,
+    "lines": 21
+   },
+   {
+    "state": "Oregon",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 1160.3,
+    "profit": 152.14,
+    "lines": 10
+   },
+   {
+    "state": "Florida",
+    "sub": "Appliances",
+    "discount": 0.2,
+    "sales": 3558.44,
+    "profit": 349.76,
+    "lines": 18
+   },
+   {
+    "state": "Florida",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 1067.9,
+    "profit": -197.63,
+    "lines": 7
+   },
+   {
+    "state": "Colorado",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 8244.82,
+    "profit": 556.52,
+    "lines": 14
+   },
+   {
+    "state": "Colorado",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 44.52,
+    "profit": 12.61,
+    "lines": 4
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 1421.76,
+    "profit": 683.36,
+    "lines": 18
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 950.97,
+    "profit": 311.32,
+    "lines": 14
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 3529.52,
+    "profit": 1649.08,
+    "lines": 15
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 742.8,
+    "profit": 203.29,
+    "lines": 11
+   },
+   {
+    "state": "Virginia",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 876.32,
+    "profit": 258.98,
+    "lines": 19
+   },
+   {
+    "state": "Colorado",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 17.96,
+    "profit": 5.98,
+    "lines": 2
+   },
+   {
+    "state": "Florida",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 15092.18,
+    "profit": 1354.76,
+    "lines": 34
+   },
+   {
+    "state": "Florida",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 2425.56,
+    "profit": 833.0,
+    "lines": 51
+   },
+   {
+    "state": "New York",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 43183.5,
+    "profit": 17320.08,
+    "lines": 16
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Phones",
+    "discount": 0.4,
+    "sales": 19702.4,
+    "profit": -3606.93,
+    "lines": 62
+   },
+   {
+    "state": "California",
+    "sub": "Copiers",
+    "discount": 0.2,
+    "sales": 24559.52,
+    "profit": 7889.85,
+    "lines": 17
+   },
+   {
+    "state": "Utah",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 10.0,
+    "profit": 2.53,
+    "lines": 2
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 154.71,
+    "profit": 29.32,
+    "lines": 14
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 226.05,
+    "profit": 66.81,
+    "lines": 11
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 1774.09,
+    "profit": 831.82,
+    "lines": 27
+   },
+   {
+    "state": "Georgia",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 3432.15,
+    "profit": 1058.58,
+    "lines": 9
+   },
+   {
+    "state": "Georgia",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 244.92,
+    "profit": 116.02,
+    "lines": 7
+   },
+   {
+    "state": "New York",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 1290.57,
+    "profit": 611.17,
+    "lines": 45
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 114.86,
+    "profit": 30.4,
+    "lines": 4
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 2428.26,
+    "profit": 355.61,
+    "lines": 11
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 1682.74,
+    "profit": 456.68,
+    "lines": 2
+   },
+   {
+    "state": "Arizona",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 3396.16,
+    "profit": 224.77,
+    "lines": 22
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Tables",
+    "discount": 0.3,
+    "sales": 3966.0,
+    "profit": -545.29,
+    "lines": 7
+   },
+   {
+    "state": "Michigan",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 4932.55,
+    "profit": 1655.06,
+    "lines": 15
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Machines",
+    "discount": 0.7,
+    "sales": 2133.72,
+    "profit": -2219.25,
+    "lines": 7
+   },
+   {
+    "state": "Washington",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 9101.57,
+    "profit": 698.58,
+    "lines": 35
+   },
+   {
+    "state": "Washington",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 20249.83,
+    "profit": 9442.42,
+    "lines": 5
+   },
+   {
+    "state": "Nevada",
+    "sub": "Binders",
+    "discount": 0.2,
+    "sales": 4897.18,
+    "profit": 1768.44,
+    "lines": 7
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 4626.06,
+    "profit": 1311.6,
+    "lines": 9
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 569.68,
+    "profit": 270.43,
+    "lines": 13
+   },
+   {
+    "state": "Michigan",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 74.48,
+    "profit": 21.21,
+    "lines": 2
+   },
+   {
+    "state": "New York",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 13276.38,
+    "profit": 3807.76,
+    "lines": 44
+   },
+   {
+    "state": "California",
+    "sub": "Bookcases",
+    "discount": 0.15,
+    "sales": 27558.52,
+    "profit": 1418.99,
+    "lines": 52
+   },
+   {
+    "state": "Washington",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 3318.74,
+    "profit": 1570.41,
+    "lines": 59
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 1058.55,
+    "profit": 502.21,
+    "lines": 13
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 833.74,
+    "profit": 259.15,
+    "lines": 14
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 4288.78,
+    "profit": 933.2,
+    "lines": 12
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 866.4,
+    "profit": 225.26,
+    "lines": 1
+   },
+   {
+    "state": "Michigan",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 1916.26,
+    "profit": 435.38,
+    "lines": 18
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 3438.09,
+    "profit": -86.21,
+    "lines": 16
+   },
+   {
+    "state": "Illinois",
+    "sub": "Machines",
+    "discount": 0.3,
+    "sales": 3756.31,
+    "profit": 326.04,
+    "lines": 5
+   },
+   {
+    "state": "Michigan",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 13878.06,
+    "profit": 3001.65,
+    "lines": 21
+   },
+   {
+    "state": "Michigan",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 880.56,
+    "profit": 430.99,
+    "lines": 8
+   },
+   {
+    "state": "Ohio",
+    "sub": "Tables",
+    "discount": 0.4,
+    "sales": 7887.11,
+    "profit": -2715.33,
+    "lines": 16
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 1817.47,
+    "profit": 395.69,
+    "lines": 5
+   },
+   {
+    "state": "Illinois",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 384.1,
+    "profit": 132.53,
+    "lines": 8
+   },
+   {
+    "state": "Washington",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 1969.35,
+    "profit": 591.86,
+    "lines": 17
+   },
+   {
+    "state": "Washington",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 15119.16,
+    "profit": 4263.27,
+    "lines": 53
+   },
+   {
+    "state": "Arizona",
+    "sub": "Furnishings",
+    "discount": 0.2,
+    "sales": 2511.65,
+    "profit": 284.55,
+    "lines": 21
+   },
+   {
+    "state": "Arizona",
+    "sub": "Tables",
+    "discount": 0.5,
+    "sales": 3995.35,
+    "profit": -2281.87,
+    "lines": 9
+   },
+   {
+    "state": "Arizona",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 282.53,
+    "profit": -30.2,
+    "lines": 4
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Tables",
+    "discount": 0.4,
+    "sales": 6214.36,
+    "profit": -2663.41,
+    "lines": 8
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 311.7,
+    "profit": 148.61,
+    "lines": 3
+   },
+   {
+    "state": "Colorado",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 883.22,
+    "profit": 298.59,
+    "lines": 19
+   },
+   {
+    "state": "Georgia",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 526.68,
+    "profit": 159.71,
+    "lines": 17
+   },
+   {
+    "state": "Georgia",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 7381.29,
+    "profit": 1109.91,
+    "lines": 15
+   },
+   {
+    "state": "Georgia",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 11672.32,
+    "profit": 5717.31,
+    "lines": 24
+   },
+   {
+    "state": "Missouri",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 941.08,
+    "profit": 195.24,
+    "lines": 7
+   },
+   {
+    "state": "Missouri",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 1021.68,
+    "profit": 254.98,
+    "lines": 8
+   },
+   {
+    "state": "Montana",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 2999.95,
+    "profit": 1379.98,
+    "lines": 1
+   },
+   {
+    "state": "Montana",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 1304.45,
+    "profit": 104.95,
+    "lines": 4
+   },
+   {
+    "state": "Montana",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 41.0,
+    "profit": 19.32,
+    "lines": 2
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 51.16,
+    "profit": 23.81,
+    "lines": 3
+   },
+   {
+    "state": "Florida",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 11168.82,
+    "profit": -37.56,
+    "lines": 19
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 6710.21,
+    "profit": -1459.57,
+    "lines": 12
+   },
+   {
+    "state": "Alabama",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 2706.28,
+    "profit": 707.18,
+    "lines": 6
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 1335.62,
+    "profit": 371.19,
+    "lines": 8
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 4795.48,
+    "profit": 1501.17,
+    "lines": 14
+   },
+   {
+    "state": "Illinois",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 178.15,
+    "profit": 13.43,
+    "lines": 7
+   },
+   {
+    "state": "Texas",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 332.46,
+    "profit": 80.74,
+    "lines": 24
+   },
+   {
+    "state": "Washington",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 263.2,
+    "profit": 62.03,
+    "lines": 15
+   },
+   {
+    "state": "Washington",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 1153.89,
+    "profit": 560.53,
+    "lines": 17
+   },
+   {
+    "state": "Colorado",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 4924.66,
+    "profit": 523.11,
+    "lines": 16
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 363.4,
+    "profit": 176.8,
+    "lines": 6
+   },
+   {
+    "state": "Oregon",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 4451.34,
+    "profit": 248.15,
+    "lines": 15
+   },
+   {
+    "state": "Texas",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 583.6,
+    "profit": 200.4,
+    "lines": 30
+   },
+   {
+    "state": "Michigan",
+    "sub": "Appliances",
+    "discount": 0.1,
+    "sales": 4324.15,
+    "profit": 1086.08,
+    "lines": 16
+   },
+   {
+    "state": "Colorado",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 3387.17,
+    "profit": -212.7,
+    "lines": 13
+   },
+   {
+    "state": "Florida",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 385.81,
+    "profit": 136.57,
+    "lines": 18
+   },
+   {
+    "state": "Georgia",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 1858.16,
+    "profit": 414.36,
+    "lines": 6
+   },
+   {
+    "state": "Indiana",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 4160.15,
+    "profit": 1259.86,
+    "lines": 10
+   },
+   {
+    "state": "Arizona",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 101.23,
+    "profit": 2.1,
+    "lines": 6
+   },
+   {
+    "state": "Washington",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 3426.5,
+    "profit": 1054.84,
+    "lines": 49
+   },
+   {
+    "state": "Ohio",
+    "sub": "Appliances",
+    "discount": 0.2,
+    "sales": 4807.54,
+    "profit": 486.26,
+    "lines": 23
+   },
+   {
+    "state": "Texas",
+    "sub": "Tables",
+    "discount": 0.3,
+    "sales": 15760.66,
+    "profit": -2216.68,
+    "lines": 33
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 76.06,
+    "profit": 21.85,
+    "lines": 4
+   },
+   {
+    "state": "Texas",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 4516.76,
+    "profit": -837.28,
+    "lines": 19
+   },
+   {
+    "state": "Indiana",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 1879.52,
+    "profit": 888.38,
+    "lines": 27
+   },
+   {
+    "state": "Indiana",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 2279.03,
+    "profit": 570.23,
+    "lines": 13
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Machines",
+    "discount": 0.5,
+    "sales": 12620.66,
+    "profit": -5384.81,
+    "lines": 4
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Appliances",
+    "discount": 0.2,
+    "sales": 4137.55,
+    "profit": 485.67,
+    "lines": 17
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 2009.66,
+    "profit": 754.65,
+    "lines": 8
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 14.62,
+    "profit": 6.87,
+    "lines": 1
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 725.28,
+    "profit": 344.07,
+    "lines": 7
+   },
+   {
+    "state": "Virginia",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 4709.43,
+    "profit": 1024.62,
+    "lines": 26
+   },
+   {
+    "state": "Virginia",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 10649.5,
+    "profit": 2847.87,
+    "lines": 21
+   },
+   {
+    "state": "Virginia",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 3768.58,
+    "profit": 545.28,
+    "lines": 20
+   },
+   {
+    "state": "Florida",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 211.0,
+    "profit": 72.57,
+    "lines": 9
+   },
+   {
+    "state": "Utah",
+    "sub": "Binders",
+    "discount": 0.2,
+    "sales": 759.59,
+    "profit": 262.26,
+    "lines": 12
+   },
+   {
+    "state": "Utah",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 165.17,
+    "profit": 54.57,
+    "lines": 3
+   },
+   {
+    "state": "New York",
+    "sub": "Tables",
+    "discount": 0.4,
+    "sales": 13779.02,
+    "profit": -4535.64,
+    "lines": 28
+   },
+   {
+    "state": "Washington",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 13163.2,
+    "profit": 1731.68,
+    "lines": 49
+   },
+   {
+    "state": "Washington",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 3144.46,
+    "profit": 570.01,
+    "lines": 10
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 1392.46,
+    "profit": 665.39,
+    "lines": 9
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 62.3,
+    "profit": 30.81,
+    "lines": 2
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 628.52,
+    "profit": 290.54,
+    "lines": 6
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 805.13,
+    "profit": 43.66,
+    "lines": 2
+   },
+   {
+    "state": "Virginia",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 5321.92,
+    "profit": 1362.23,
+    "lines": 9
+   },
+   {
+    "state": "Iowa",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 1154.3,
+    "profit": 318.37,
+    "lines": 4
+   },
+   {
+    "state": "Iowa",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 49.49,
+    "profit": 19.15,
+    "lines": 2
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 318.85,
+    "profit": 149.86,
+    "lines": 3
+   },
+   {
+    "state": "Virginia",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 4794.24,
+    "profit": 2268.99,
+    "lines": 25
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 103.68,
+    "profit": 49.9,
+    "lines": 5
+   },
+   {
+    "state": "Colorado",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 210.62,
+    "profit": 25.09,
+    "lines": 11
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 1380.76,
+    "profit": 405.65,
+    "lines": 3
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 239.94,
+    "profit": 69.88,
+    "lines": 2
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 1023.56,
+    "profit": 349.63,
+    "lines": 9
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 66.34,
+    "profit": 32.13,
+    "lines": 5
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 42.9,
+    "profit": 19.33,
+    "lines": 2
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 37.24,
+    "profit": 10.8,
+    "lines": 1
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 30.56,
+    "profit": 14.97,
+    "lines": 2
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 5114.36,
+    "profit": 1406.36,
+    "lines": 13
+   },
+   {
+    "state": "Florida",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 710.92,
+    "profit": 77.94,
+    "lines": 29
+   },
+   {
+    "state": "Florida",
+    "sub": "Machines",
+    "discount": 0.5,
+    "sales": 24573.94,
+    "profit": -1976.01,
+    "lines": 6
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 1060.32,
+    "profit": 363.86,
+    "lines": 26
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 606.66,
+    "profit": 162.56,
+    "lines": 5
+   },
+   {
+    "state": "New York",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 2563.63,
+    "profit": 268.04,
+    "lines": 25
+   },
+   {
+    "state": "Virginia",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 474.77,
+    "profit": 230.8,
+    "lines": 12
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 284.88,
+    "profit": 132.96,
+    "lines": 4
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 833.31,
+    "profit": 259.25,
+    "lines": 5
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 2811.85,
+    "profit": 655.22,
+    "lines": 4
+   },
+   {
+    "state": "Maryland",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 3225.05,
+    "profit": 1595.51,
+    "lines": 14
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 457.47,
+    "profit": 92.96,
+    "lines": 6
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 1020.04,
+    "profit": 303.27,
+    "lines": 12
+   },
+   {
+    "state": "Virginia",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 4305.53,
+    "profit": 1417.74,
+    "lines": 14
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Appliances",
+    "discount": 0.2,
+    "sales": 4663.28,
+    "profit": 694.22,
+    "lines": 23
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 1163.8,
+    "profit": 264.34,
+    "lines": 5
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Tables",
+    "discount": 0.4,
+    "sales": 8052.19,
+    "profit": -2588.75,
+    "lines": 15
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 575.81,
+    "profit": 44.64,
+    "lines": 4
+   },
+   {
+    "state": "Arizona",
+    "sub": "Paper",
+    "discount": 0.2,
+    "sales": 2440.76,
+    "profit": 842.04,
+    "lines": 31
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 2889.83,
+    "profit": 1356.21,
+    "lines": 10
+   },
+   {
+    "state": "Michigan",
+    "sub": "Machines",
+    "discount": 0.1,
+    "sales": 3410.95,
+    "profit": 832.08,
+    "lines": 2
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 105.35,
+    "profit": 48.08,
+    "lines": 4
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 4822.43,
+    "profit": 855.39,
+    "lines": 14
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 1788.37,
+    "profit": 456.66,
+    "lines": 12
+   },
+   {
+    "state": "Arizona",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 214.52,
+    "profit": 75.15,
+    "lines": 7
+   },
+   {
+    "state": "Iowa",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 315.81,
+    "profit": 149.74,
+    "lines": 7
+   },
+   {
+    "state": "District of Columbia",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 56.66,
+    "profit": 22.1,
+    "lines": 2
+   },
+   {
+    "state": "District of Columbia",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 1267.53,
+    "profit": 316.88,
+    "lines": 1
+   },
+   {
+    "state": "District of Columbia",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 1379.92,
+    "profit": 648.56,
+    "lines": 1
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 3577.75,
+    "profit": 1110.62,
+    "lines": 9
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 2661.9,
+    "profit": 530.91,
+    "lines": 8
+   },
+   {
+    "state": "Missouri",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 1721.54,
+    "profit": 361.52,
+    "lines": 2
+   },
+   {
+    "state": "Indiana",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 389.19,
+    "profit": 123.61,
+    "lines": 12
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Furnishings",
+    "discount": 0.2,
+    "sales": 1791.1,
+    "profit": 153.04,
+    "lines": 19
+   },
+   {
+    "state": "Maryland",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 1039.35,
+    "profit": 504.92,
+    "lines": 13
+   },
+   {
+    "state": "Maryland",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 1589.16,
+    "profit": 494.23,
+    "lines": 6
+   },
+   {
+    "state": "Georgia",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 2957.24,
+    "profit": 1417.88,
+    "lines": 31
+   },
+   {
+    "state": "Georgia",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 3657.87,
+    "profit": 887.85,
+    "lines": 19
+   },
+   {
+    "state": "Georgia",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 446.57,
+    "profit": 211.06,
+    "lines": 8
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 2136.81,
+    "profit": 577.77,
+    "lines": 4
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 78.3,
+    "profit": 23.73,
+    "lines": 6
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 573.49,
+    "profit": 194.13,
+    "lines": 5
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 1673.28,
+    "profit": 369.55,
+    "lines": 2
+   },
+   {
+    "state": "Indiana",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 889.56,
+    "profit": 412.17,
+    "lines": 7
+   },
+   {
+    "state": "Virginia",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 14042.47,
+    "profit": 2538.69,
+    "lines": 13
+   },
+   {
+    "state": "Virginia",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 1084.08,
+    "profit": 506.41,
+    "lines": 10
+   },
+   {
+    "state": "California",
+    "sub": "Machines",
+    "discount": 0.2,
+    "sales": 29492.02,
+    "profit": 4175.41,
+    "lines": 23
+   },
+   {
+    "state": "Michigan",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 1149.97,
+    "profit": 484.99,
+    "lines": 2
+   },
+   {
+    "state": "Nevada",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 214.28,
+    "profit": 59.58,
+    "lines": 4
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 27.93,
+    "profit": 8.1,
+    "lines": 1
+   },
+   {
+    "state": "Maryland",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 4329.91,
+    "profit": 969.69,
+    "lines": 8
+   },
+   {
+    "state": "Maryland",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 2577.26,
+    "profit": 698.19,
+    "lines": 8
+   },
+   {
+    "state": "Ohio",
+    "sub": "Copiers",
+    "discount": 0.4,
+    "sales": 3839.93,
+    "profit": 446.99,
+    "lines": 4
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 91.37,
+    "profit": 43.49,
+    "lines": 2
+   },
+   {
+    "state": "Indiana",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 5460.39,
+    "profit": 1558.03,
+    "lines": 13
+   },
+   {
+    "state": "Alabama",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 883.02,
+    "profit": 424.21,
+    "lines": 8
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 774.89,
+    "profit": 187.08,
+    "lines": 3
+   },
+   {
+    "state": "Virginia",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 1248.13,
+    "profit": 278.79,
+    "lines": 4
+   },
+   {
+    "state": "Georgia",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 1805.08,
+    "profit": 613.89,
+    "lines": 19
+   },
+   {
+    "state": "Georgia",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 7004.73,
+    "profit": 1881.76,
+    "lines": 16
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 165.65,
+    "profit": 76.67,
+    "lines": 5
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 788.22,
+    "profit": 378.83,
+    "lines": 12
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 102.81,
+    "profit": 36.57,
+    "lines": 6
+   },
+   {
+    "state": "Arizona",
+    "sub": "Machines",
+    "discount": 0.7,
+    "sales": 965.95,
+    "profit": -930.94,
+    "lines": 3
+   },
+   {
+    "state": "Arizona",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 6499.08,
+    "profit": 121.6,
+    "lines": 16
+   },
+   {
+    "state": "Colorado",
+    "sub": "Bookcases",
+    "discount": 0.7,
+    "sales": 1583.52,
+    "profit": -2408.92,
+    "lines": 9
+   },
+   {
+    "state": "Maryland",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 1123.81,
+    "profit": 415.46,
+    "lines": 5
+   },
+   {
+    "state": "Utah",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 1089.75,
+    "profit": 305.13,
+    "lines": 1
+   },
+   {
+    "state": "Utah",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 1152.28,
+    "profit": 553.43,
+    "lines": 11
+   },
+   {
+    "state": "Utah",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 100.05,
+    "profit": 28.88,
+    "lines": 4
+   },
+   {
+    "state": "Utah",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 615.22,
+    "profit": 90.43,
+    "lines": 4
+   },
+   {
+    "state": "Georgia",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 15.12,
+    "profit": 0.3,
+    "lines": 2
+   },
+   {
+    "state": "Georgia",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 3793.5,
+    "profit": 883.26,
+    "lines": 5
+   },
+   {
+    "state": "Alabama",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 484.51,
+    "profit": 11.51,
+    "lines": 2
+   },
+   {
+    "state": "Alabama",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 3915.54,
+    "profit": 660.97,
+    "lines": 5
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 292.42,
+    "profit": 138.07,
+    "lines": 6
+   },
+   {
+    "state": "Alabama",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 3040.0,
+    "profit": 1459.2,
+    "lines": 1
+   },
+   {
+    "state": "Georgia",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 864.74,
+    "profit": 137.95,
+    "lines": 2
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 2105.19,
+    "profit": 1000.77,
+    "lines": 17
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Tables",
+    "discount": 0.3,
+    "sales": 418.29,
+    "profit": -51.29,
+    "lines": 2
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 302.04,
+    "profit": -27.98,
+    "lines": 6
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 436.48,
+    "profit": 62.71,
+    "lines": 17
+   },
+   {
+    "state": "Georgia",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 396.0,
+    "profit": 190.08,
+    "lines": 1
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 128.23,
+    "profit": 60.4,
+    "lines": 5
+   },
+   {
+    "state": "Nevada",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 3355.48,
+    "profit": 437.19,
+    "lines": 2
+   },
+   {
+    "state": "Delaware",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 26.18,
+    "profit": 0.52,
+    "lines": 1
+   },
+   {
+    "state": "Delaware",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 440.77,
+    "profit": 211.04,
+    "lines": 12
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 4204.36,
+    "profit": 1203.44,
+    "lines": 13
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 3629.74,
+    "profit": 1016.16,
+    "lines": 12
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 1873.72,
+    "profit": 414.09,
+    "lines": 6
+   },
+   {
+    "state": "New York",
+    "sub": "Copiers",
+    "discount": 0.2,
+    "sales": 17199.84,
+    "profit": 5839.95,
+    "lines": 7
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 177.85,
+    "profit": 82.94,
+    "lines": 6
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 3695.82,
+    "profit": 1740.03,
+    "lines": 22
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 2567.21,
+    "profit": 118.36,
+    "lines": 9
+   },
+   {
+    "state": "Illinois",
+    "sub": "Bookcases",
+    "discount": 0.3,
+    "sales": 4282.7,
+    "profit": -555.87,
+    "lines": 10
+   },
+   {
+    "state": "Delaware",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 535.35,
+    "profit": 159.63,
+    "lines": 11
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 802.34,
+    "profit": 228.79,
+    "lines": 3
+   },
+   {
+    "state": "Oregon",
+    "sub": "Storage",
+    "discount": 0.2,
+    "sales": 1991.12,
+    "profit": -410.77,
+    "lines": 7
+   },
+   {
+    "state": "District of Columbia",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 72.22,
+    "profit": 34.41,
+    "lines": 3
+   },
+   {
+    "state": "District of Columbia",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 9.64,
+    "profit": 4.43,
+    "lines": 1
+   },
+   {
+    "state": "District of Columbia",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 79.05,
+    "profit": 33.2,
+    "lines": 2
+   },
+   {
+    "state": "Illinois",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 141.34,
+    "profit": 43.99,
+    "lines": 13
+   },
+   {
+    "state": "Nevada",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 229.55,
+    "profit": 89.43,
+    "lines": 2
+   },
+   {
+    "state": "Virginia",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 2935.82,
+    "profit": 917.66,
+    "lines": 12
+   },
+   {
+    "state": "Virginia",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 4575.23,
+    "profit": 146.58,
+    "lines": 6
+   },
+   {
+    "state": "Maryland",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 3541.98,
+    "profit": 822.46,
+    "lines": 7
+   },
+   {
+    "state": "Maryland",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 433.69,
+    "profit": 132.79,
+    "lines": 12
+   },
+   {
+    "state": "Maryland",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 171.51,
+    "profit": 82.5,
+    "lines": 6
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 159.79,
+    "profit": 44.67,
+    "lines": 7
+   },
+   {
+    "state": "Kansas",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 162.72,
+    "profit": 45.95,
+    "lines": 4
+   },
+   {
+    "state": "Oregon",
+    "sub": "Furnishings",
+    "discount": 0.2,
+    "sales": 468.46,
+    "profit": 72.03,
+    "lines": 5
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 2533.84,
+    "profit": 579.88,
+    "lines": 4
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 2723.59,
+    "profit": 142.72,
+    "lines": 11
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 191.66,
+    "profit": 70.48,
+    "lines": 8
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 229.42,
+    "profit": 75.87,
+    "lines": 9
+   },
+   {
+    "state": "Indiana",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 4120.43,
+    "profit": 555.29,
+    "lines": 15
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 1479.18,
+    "profit": 471.87,
+    "lines": 5
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 2133.34,
+    "profit": 587.18,
+    "lines": 6
+   },
+   {
+    "state": "Nevada",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 463.38,
+    "profit": 155.8,
+    "lines": 5
+   },
+   {
+    "state": "Florida",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 49.26,
+    "profit": 16.51,
+    "lines": 5
+   },
+   {
+    "state": "Montana",
+    "sub": "Binders",
+    "discount": 0.2,
+    "sales": 502.37,
+    "profit": 157.4,
+    "lines": 3
+   },
+   {
+    "state": "Oregon",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 3841.16,
+    "profit": 106.11,
+    "lines": 8
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 387.7,
+    "profit": 57.19,
+    "lines": 2
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 182.49,
+    "profit": 31.62,
+    "lines": 4
+   },
+   {
+    "state": "Missouri",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 1875.62,
+    "profit": 898.41,
+    "lines": 11
+   },
+   {
+    "state": "Missouri",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 301.81,
+    "profit": 144.01,
+    "lines": 11
+   },
+   {
+    "state": "Missouri",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 1791.94,
+    "profit": 322.28,
+    "lines": 6
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 114.43,
+    "profit": 32.67,
+    "lines": 3
+   },
+   {
+    "state": "Alabama",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 1249.41,
+    "profit": 147.86,
+    "lines": 3
+   },
+   {
+    "state": "Oregon",
+    "sub": "Art",
+    "discount": 0.2,
+    "sales": 461.76,
+    "profit": 65.28,
+    "lines": 14
+   },
+   {
+    "state": "Missouri",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 71.18,
+    "profit": 33.45,
+    "lines": 3
+   },
+   {
+    "state": "Oregon",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 902.11,
+    "profit": 320.33,
+    "lines": 6
+   },
+   {
+    "state": "Oregon",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 20.02,
+    "profit": 0.17,
+    "lines": 2
+   },
+   {
+    "state": "Missouri",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 239.62,
+    "profit": 66.16,
+    "lines": 2
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Appliances",
+    "discount": 0.2,
+    "sales": 1914.98,
+    "profit": 203.17,
+    "lines": 10
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 3194.08,
+    "profit": 892.73,
+    "lines": 4
+   },
+   {
+    "state": "Montana",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 14.62,
+    "profit": 6.87,
+    "lines": 1
+   },
+   {
+    "state": "Delaware",
+    "sub": "Tables",
+    "discount": 0.3,
+    "sales": 510.28,
+    "profit": -85.9,
+    "lines": 2
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 29.56,
+    "profit": 4.72,
+    "lines": 2
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 966.85,
+    "profit": 457.69,
+    "lines": 9
+   },
+   {
+    "state": "Michigan",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 810.2,
+    "profit": 150.65,
+    "lines": 4
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 33.28,
+    "profit": 9.32,
+    "lines": 1
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 266.4,
+    "profit": 80.31,
+    "lines": 2
+   },
+   {
+    "state": "Alabama",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 2322.83,
+    "profit": 816.43,
+    "lines": 6
+   },
+   {
+    "state": "Alabama",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 301.21,
+    "profit": 88.53,
+    "lines": 7
+   },
+   {
+    "state": "Vermont",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 305.01,
+    "profit": 110.65,
+    "lines": 2
+   },
+   {
+    "state": "Utah",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 44.4,
+    "profit": 12.43,
+    "lines": 1
+   },
+   {
+    "state": "Maine",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 437.85,
+    "profit": 131.35,
+    "lines": 1
+   },
+   {
+    "state": "Maine",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 109.48,
+    "profit": 33.94,
+    "lines": 1
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 2516.06,
+    "profit": 411.17,
+    "lines": 2
+   },
+   {
+    "state": "South Dakota",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 34.85,
+    "profit": 16.38,
+    "lines": 2
+   },
+   {
+    "state": "South Dakota",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 416.32,
+    "profit": 112.41,
+    "lines": 1
+   },
+   {
+    "state": "South Dakota",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 114.51,
+    "profit": 55.64,
+    "lines": 3
+   },
+   {
+    "state": "South Dakota",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 182.94,
+    "profit": 27.44,
+    "lines": 1
+   },
+   {
+    "state": "South Dakota",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 392.94,
+    "profit": 133.9,
+    "lines": 2
+   },
+   {
+    "state": "Colorado",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 75.6,
+    "profit": 27.06,
+    "lines": 5
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 10.86,
+    "profit": 5.1,
+    "lines": 1
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 896.91,
+    "profit": 271.6,
+    "lines": 6
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 2710.57,
+    "profit": 778.08,
+    "lines": 7
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 2209.76,
+    "profit": 924.76,
+    "lines": 4
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Binders",
+    "discount": 0.2,
+    "sales": 125.63,
+    "profit": 45.08,
+    "lines": 5
+   },
+   {
+    "state": "Nevada",
+    "sub": "Machines",
+    "discount": 0.2,
+    "sales": 2396.4,
+    "profit": 179.73,
+    "lines": 1
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 587.22,
+    "profit": 132.0,
+    "lines": 2
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 153.7,
+    "profit": 72.19,
+    "lines": 4
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Bookcases",
+    "discount": 0.2,
+    "sales": 959.06,
+    "profit": -97.98,
+    "lines": 4
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 2345.05,
+    "profit": 100.37,
+    "lines": 5
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 1491.22,
+    "profit": 471.58,
+    "lines": 4
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 196.62,
+    "profit": 92.85,
+    "lines": 7
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 445.44,
+    "profit": 209.75,
+    "lines": 11
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 805.52,
+    "profit": 382.76,
+    "lines": 12
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 42.67,
+    "profit": 18.96,
+    "lines": 2
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 1788.44,
+    "profit": 683.67,
+    "lines": 11
+   },
+   {
+    "state": "Arizona",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 27.46,
+    "profit": 9.13,
+    "lines": 3
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 331.85,
+    "profit": 159.9,
+    "lines": 6
+   },
+   {
+    "state": "Utah",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 2699.8,
+    "profit": 218.26,
+    "lines": 2
+   },
+   {
+    "state": "Utah",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 30.15,
+    "profit": 14.62,
+    "lines": 2
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Labels",
+    "discount": 0.2,
+    "sales": 115.37,
+    "profit": 41.47,
+    "lines": 8
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 2976.3,
+    "profit": 703.49,
+    "lines": 8
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 1452.73,
+    "profit": 412.7,
+    "lines": 4
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 515.08,
+    "profit": 246.61,
+    "lines": 8
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 276.7,
+    "profit": 119.32,
+    "lines": 4
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 534.13,
+    "profit": 72.95,
+    "lines": 4
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 279.66,
+    "profit": 78.16,
+    "lines": 4
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 18.45,
+    "profit": 8.67,
+    "lines": 1
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 1444.92,
+    "profit": 412.47,
+    "lines": 5
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 4245.6,
+    "profit": 962.12,
+    "lines": 6
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 625.78,
+    "profit": 298.94,
+    "lines": 7
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 66.34,
+    "profit": 21.86,
+    "lines": 4
+   },
+   {
+    "state": "Delaware",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 2051.73,
+    "profit": 476.93,
+    "lines": 4
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 332.79,
+    "profit": 160.32,
+    "lines": 8
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 867.66,
+    "profit": 147.5,
+    "lines": 2
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Copiers",
+    "discount": 0.2,
+    "sales": 959.97,
+    "profit": 120.0,
+    "lines": 1
+   },
+   {
+    "state": "Washington",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 512.72,
+    "profit": 245.76,
+    "lines": 6
+   },
+   {
+    "state": "Oregon",
+    "sub": "Tables",
+    "discount": 0.5,
+    "sales": 1671.86,
+    "profit": -1048.9,
+    "lines": 5
+   },
+   {
+    "state": "Colorado",
+    "sub": "Machines",
+    "discount": 0.7,
+    "sales": 3313.69,
+    "profit": -4384.26,
+    "lines": 3
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 129.5,
+    "profit": 36.99,
+    "lines": 2
+   },
+   {
+    "state": "Idaho",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 432.32,
+    "profit": 110.03,
+    "lines": 3
+   },
+   {
+    "state": "Idaho",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 227.84,
+    "profit": 66.07,
+    "lines": 1
+   },
+   {
+    "state": "Idaho",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 172.86,
+    "profit": 81.32,
+    "lines": 4
+   },
+   {
+    "state": "Illinois",
+    "sub": "Copiers",
+    "discount": 0.2,
+    "sales": 5919.89,
+    "profit": 1831.97,
+    "lines": 4
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 695.16,
+    "profit": 34.76,
+    "lines": 1
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 562.94,
+    "profit": 129.48,
+    "lines": 2
+   },
+   {
+    "state": "Washington",
+    "sub": "Machines",
+    "discount": 0.2,
+    "sales": 6066.15,
+    "profit": 615.06,
+    "lines": 7
+   },
+   {
+    "state": "Washington",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 483.34,
+    "profit": 45.27,
+    "lines": 9
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 35.02,
+    "profit": 5.49,
+    "lines": 2
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Tables",
+    "discount": 0.3,
+    "sales": 252.36,
+    "profit": -19.61,
+    "lines": 2
+   },
+   {
+    "state": "South Dakota",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 6.54,
+    "profit": 2.68,
+    "lines": 1
+   },
+   {
+    "state": "Kansas",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 24.05,
+    "profit": 10.92,
+    "lines": 2
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 58.91,
+    "profit": 19.09,
+    "lines": 4
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 430.49,
+    "profit": 182.16,
+    "lines": 5
+   },
+   {
+    "state": "Nevada",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 141.96,
+    "profit": 41.17,
+    "lines": 1
+   },
+   {
+    "state": "North Carolina",
+    "sub": "Tables",
+    "discount": 0.4,
+    "sales": 9681.73,
+    "profit": -3684.25,
+    "lines": 8
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 350.72,
+    "profit": 98.61,
+    "lines": 12
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 1.81,
+    "profit": 0.65,
+    "lines": 1
+   },
+   {
+    "state": "Colorado",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 1403.4,
+    "profit": -291.7,
+    "lines": 5
+   },
+   {
+    "state": "Iowa",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 1408.1,
+    "profit": 394.27,
+    "lines": 1
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 3347.75,
+    "profit": 999.74,
+    "lines": 6
+   },
+   {
+    "state": "Kansas",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 92.35,
+    "profit": 26.28,
+    "lines": 2
+   },
+   {
+    "state": "Kansas",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 611.92,
+    "profit": 279.44,
+    "lines": 3
+   },
+   {
+    "state": "Alabama",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 40.48,
+    "profit": 14.35,
+    "lines": 3
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 812.67,
+    "profit": 231.75,
+    "lines": 3
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 86.32,
+    "profit": 17.92,
+    "lines": 3
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 1665.62,
+    "profit": 33.31,
+    "lines": 1
+   },
+   {
+    "state": "Maryland",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 3147.72,
+    "profit": 901.65,
+    "lines": 15
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 3656.24,
+    "profit": 305.22,
+    "lines": 9
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Fasteners",
+    "discount": 0.2,
+    "sales": 86.66,
+    "profit": 28.89,
+    "lines": 3
+   },
+   {
+    "state": "Oregon",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 76.74,
+    "profit": -1.68,
+    "lines": 4
+   },
+   {
+    "state": "Maryland",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 27.32,
+    "profit": 10.47,
+    "lines": 2
+   },
+   {
+    "state": "Maryland",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 464.97,
+    "profit": 209.24,
+    "lines": 1
+   },
+   {
+    "state": "Colorado",
+    "sub": "Copiers",
+    "discount": 0.2,
+    "sales": 439.99,
+    "profit": 165.0,
+    "lines": 1
+   },
+   {
+    "state": "Alabama",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 899.97,
+    "profit": 314.99,
+    "lines": 1
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 57.64,
+    "profit": 10.38,
+    "lines": 3
+   },
+   {
+    "state": "Georgia",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 39.52,
+    "profit": 10.15,
+    "lines": 2
+   },
+   {
+    "state": "Delaware",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 74.13,
+    "profit": 34.74,
+    "lines": 5
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 43.41,
+    "profit": 17.99,
+    "lines": 2
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 3873.96,
+    "profit": 650.76,
+    "lines": 6
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 138.89,
+    "profit": 40.88,
+    "lines": 2
+   },
+   {
+    "state": "Kansas",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 756.69,
+    "profit": 148.7,
+    "lines": 3
+   },
+   {
+    "state": "Alabama",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 2376.46,
+    "profit": 556.07,
+    "lines": 3
+   },
+   {
+    "state": "Nevada",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 2511.06,
+    "profit": 243.69,
+    "lines": 3
+   },
+   {
+    "state": "Nevada",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 674.35,
+    "profit": -109.58,
+    "lines": 1
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 177.35,
+    "profit": 62.27,
+    "lines": 5
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 403.49,
+    "profit": 121.34,
+    "lines": 6
+   },
+   {
+    "state": "Florida",
+    "sub": "Bookcases",
+    "discount": 0.2,
+    "sales": 2587.06,
+    "profit": -116.07,
+    "lines": 8
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 479.97,
+    "profit": 239.99,
+    "lines": 1
+   },
+   {
+    "state": "Indiana",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 18499.93,
+    "profit": 8849.97,
+    "lines": 2
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 638.82,
+    "profit": 172.48,
+    "lines": 1
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 3080.0,
+    "profit": 1416.8,
+    "lines": 1
+   },
+   {
+    "state": "Virginia",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 85.16,
+    "profit": 40.66,
+    "lines": 4
+   },
+   {
+    "state": "Virginia",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 8959.92,
+    "profit": 2890.27,
+    "lines": 2
+   },
+   {
+    "state": "Kansas",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 18.9,
+    "profit": 8.69,
+    "lines": 1
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 41.16,
+    "profit": 19.43,
+    "lines": 2
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 763.48,
+    "profit": 359.06,
+    "lines": 3
+   },
+   {
+    "state": "Delaware",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 10499.97,
+    "profit": 5039.99,
+    "lines": 1
+   },
+   {
+    "state": "Idaho",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 1824.81,
+    "profit": 419.71,
+    "lines": 2
+   },
+   {
+    "state": "Idaho",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 747.53,
+    "profit": 54.31,
+    "lines": 3
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 49.25,
+    "profit": 18.71,
+    "lines": 1
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Tables",
+    "discount": 0.3,
+    "sales": 1758.25,
+    "profit": -230.17,
+    "lines": 4
+   },
+   {
+    "state": "Iowa",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 45.92,
+    "profit": 21.58,
+    "lines": 1
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 2782.42,
+    "profit": 696.26,
+    "lines": 3
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 33.43,
+    "profit": 15.7,
+    "lines": 3
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 9899.85,
+    "profit": 2709.95,
+    "lines": 3
+   },
+   {
+    "state": "Texas",
+    "sub": "Copiers",
+    "discount": 0.2,
+    "sales": 5639.87,
+    "profit": 1629.96,
+    "lines": 5
+   },
+   {
+    "state": "North Dakota",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 181.84,
+    "profit": 51.88,
+    "lines": 4
+   },
+   {
+    "state": "North Dakota",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 704.76,
+    "profit": 162.09,
+    "lines": 1
+   },
+   {
+    "state": "North Dakota",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 7.41,
+    "profit": 3.48,
+    "lines": 1
+   },
+   {
+    "state": "Maryland",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 337.15,
+    "profit": 153.09,
+    "lines": 2
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 3963.38,
+    "profit": 1106.8,
+    "lines": 5
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 842.94,
+    "profit": 160.16,
+    "lines": 1
+   },
+   {
+    "state": "Idaho",
+    "sub": "Binders",
+    "discount": 0.2,
+    "sales": 71.66,
+    "profit": 24.63,
+    "lines": 5
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 864.78,
+    "profit": 181.31,
+    "lines": 3
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 407.4,
+    "profit": 188.22,
+    "lines": 2
+   },
+   {
+    "state": "Wisconsin",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 21.81,
+    "profit": 5.89,
+    "lines": 1
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Supplies",
+    "discount": 0.2,
+    "sales": 97.79,
+    "profit": 8.02,
+    "lines": 2
+   },
+   {
+    "state": "Virginia",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 1599.92,
+    "profit": 751.96,
+    "lines": 1
+   },
+   {
+    "state": "Utah",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 194.73,
+    "profit": 41.32,
+    "lines": 2
+   },
+   {
+    "state": "Maine",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 38.1,
+    "profit": 17.31,
+    "lines": 2
+   },
+   {
+    "state": "Maine",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 323.4,
+    "profit": 119.68,
+    "lines": 2
+   },
+   {
+    "state": "Delaware",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 140.42,
+    "profit": 44.36,
+    "lines": 2
+   },
+   {
+    "state": "Kansas",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 303.0,
+    "profit": 147.68,
+    "lines": 3
+   },
+   {
+    "state": "Pennsylvania",
+    "sub": "Copiers",
+    "discount": 0.4,
+    "sales": 13079.87,
+    "profit": 1735.98,
+    "lines": 5
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 337.3,
+    "profit": 33.72,
+    "lines": 2
+   },
+   {
+    "state": "Maryland",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 881.82,
+    "profit": 105.61,
+    "lines": 3
+   },
+   {
+    "state": "Alabama",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 3.62,
+    "profit": 1.19,
+    "lines": 1
+   },
+   {
+    "state": "Delaware",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 1559.92,
+    "profit": 342.14,
+    "lines": 2
+   },
+   {
+    "state": "Nevada",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 317.78,
+    "profit": 153.59,
+    "lines": 7
+   },
+   {
+    "state": "Arizona",
+    "sub": "Bookcases",
+    "discount": 0.7,
+    "sales": 519.21,
+    "profit": -869.21,
+    "lines": 3
+   },
+   {
+    "state": "Michigan",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 310.02,
+    "profit": 141.63,
+    "lines": 5
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 540.31,
+    "profit": 69.77,
+    "lines": 3
+   },
+   {
+    "state": "South Carolina",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 35.44,
+    "profit": 9.91,
+    "lines": 2
+   },
+   {
+    "state": "Missouri",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 564.92,
+    "profit": 222.78,
+    "lines": 2
+   },
+   {
+    "state": "Vermont",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 715.2,
+    "profit": 178.8,
+    "lines": 1
+   },
+   {
+    "state": "Kansas",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 111.12,
+    "profit": 36.97,
+    "lines": 2
+   },
+   {
+    "state": "Kansas",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 81.96,
+    "profit": 22.95,
+    "lines": 1
+   },
+   {
+    "state": "Oregon",
+    "sub": "Appliances",
+    "discount": 0.2,
+    "sales": 535.77,
+    "profit": 54.09,
+    "lines": 6
+   },
+   {
+    "state": "Kansas",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 357.93,
+    "profit": 7.16,
+    "lines": 1
+   },
+   {
+    "state": "Nevada",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 86.2,
+    "profit": 25.0,
+    "lines": 1
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 1164.5,
+    "profit": 138.67,
+    "lines": 3
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 3045.8,
+    "profit": 891.63,
+    "lines": 6
+   },
+   {
+    "state": "Nevada",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 1325.85,
+    "profit": 238.65,
+    "lines": 1
+   },
+   {
+    "state": "Nevada",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 14.94,
+    "profit": 6.87,
+    "lines": 1
+   },
+   {
+    "state": "Georgia",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 2999.95,
+    "profit": 1439.98,
+    "lines": 1
+   },
+   {
+    "state": "Maryland",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 25.02,
+    "profit": 6.51,
+    "lines": 1
+   },
+   {
+    "state": "Missouri",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 5499.92,
+    "profit": 2536.96,
+    "lines": 2
+   },
+   {
+    "state": "Oregon",
+    "sub": "Bookcases",
+    "discount": 0.7,
+    "sales": 356.65,
+    "profit": -616.82,
+    "lines": 3
+   },
+   {
+    "state": "Indiana",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 3518.84,
+    "profit": 412.92,
+    "lines": 3
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 549.99,
+    "profit": 275.0,
+    "lines": 1
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 301.96,
+    "profit": 45.29,
+    "lines": 1
+   },
+   {
+    "state": "Wyoming",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 1603.14,
+    "profit": 100.2,
+    "lines": 1
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 7.31,
+    "profit": 3.44,
+    "lines": 1
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 615.55,
+    "profit": 176.95,
+    "lines": 3
+   },
+   {
+    "state": "Kansas",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 393.67,
+    "profit": 101.69,
+    "lines": 2
+   },
+   {
+    "state": "Mississippi",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 504.9,
+    "profit": 126.22,
+    "lines": 1
+   },
+   {
+    "state": "Idaho",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 338.35,
+    "profit": 4.23,
+    "lines": 1
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 17.34,
+    "profit": 4.68,
+    "lines": 1
+   },
+   {
+    "state": "Minnesota",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 1300.46,
+    "profit": 270.44,
+    "lines": 2
+   },
+   {
+    "state": "Delaware",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 65.97,
+    "profit": 31.01,
+    "lines": 1
+   },
+   {
+    "state": "Connecticut",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 657.69,
+    "profit": 193.75,
+    "lines": 5
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 824.95,
+    "profit": 247.49,
+    "lines": 1
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 21.96,
+    "profit": 6.15,
+    "lines": 1
+   },
+   {
+    "state": "Idaho",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 477.15,
+    "profit": 28.63,
+    "lines": 1
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 7399.87,
+    "profit": 3491.94,
+    "lines": 2
+   },
+   {
+    "state": "Missouri",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 4216.64,
+    "profit": 99.06,
+    "lines": 2
+   },
+   {
+    "state": "Missouri",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 212.94,
+    "profit": 53.23,
+    "lines": 1
+   },
+   {
+    "state": "Indiana",
+    "sub": "Machines",
+    "discount": 0.0,
+    "sales": 83.9,
+    "profit": 22.65,
+    "lines": 1
+   },
+   {
+    "state": "New Mexico",
+    "sub": "Chairs",
+    "discount": 0.2,
+    "sales": 1114.19,
+    "profit": 119.59,
+    "lines": 2
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 14.82,
+    "profit": 6.97,
+    "lines": 1
+   },
+   {
+    "state": "Alabama",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 105.84,
+    "profit": 52.62,
+    "lines": 2
+   },
+   {
+    "state": "Arkansas",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 430.0,
+    "profit": 32.09,
+    "lines": 2
+   },
+   {
+    "state": "Alabama",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 506.49,
+    "profit": 247.73,
+    "lines": 2
+   },
+   {
+    "state": "Nevada",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 95.98,
+    "profit": 27.21,
+    "lines": 2
+   },
+   {
+    "state": "Florida",
+    "sub": "Copiers",
+    "discount": 0.2,
+    "sales": 1439.97,
+    "profit": 401.99,
+    "lines": 2
+   },
+   {
+    "state": "Oregon",
+    "sub": "Envelopes",
+    "discount": 0.2,
+    "sales": 49.52,
+    "profit": 18.03,
+    "lines": 2
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Accessories",
+    "discount": 0.2,
+    "sales": 410.57,
+    "profit": 35.22,
+    "lines": 9
+   },
+   {
+    "state": "Montana",
+    "sub": "Phones",
+    "discount": 0.2,
+    "sales": 445.54,
+    "profit": 51.73,
+    "lines": 2
+   },
+   {
+    "state": "Montana",
+    "sub": "Furnishings",
+    "discount": 0.0,
+    "sales": 63.98,
+    "profit": 21.75,
+    "lines": 1
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Machines",
+    "discount": 0.5,
+    "sales": 740.48,
+    "profit": -274.41,
+    "lines": 2
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 14.4,
+    "profit": 7.06,
+    "lines": 1
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 16.9,
+    "profit": 5.07,
+    "lines": 1
+   },
+   {
+    "state": "Utah",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 1499.95,
+    "profit": 449.99,
+    "lines": 1
+   },
+   {
+    "state": "North Dakota",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 25.9,
+    "profit": 12.69,
+    "lines": 1
+   },
+   {
+    "state": "New Hampshire",
+    "sub": "Tables",
+    "discount": 0.3,
+    "sales": 1053.16,
+    "profit": -105.32,
+    "lines": 1
+   },
+   {
+    "state": "Kentucky",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 1399.98,
+    "profit": 629.99,
+    "lines": 1
+   },
+   {
+    "state": "Nebraska",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 563.94,
+    "profit": 112.79,
+    "lines": 1
+   },
+   {
+    "state": "Oregon",
+    "sub": "Machines",
+    "discount": 0.7,
+    "sales": 209.92,
+    "profit": -273.93,
+    "lines": 2
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Copiers",
+    "discount": 0.0,
+    "sales": 1199.98,
+    "profit": 467.99,
+    "lines": 1
+   },
+   {
+    "state": "Massachusetts",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 30.07,
+    "profit": 6.86,
+    "lines": 2
+   },
+   {
+    "state": "Maryland",
+    "sub": "Tables",
+    "discount": 0.3,
+    "sales": 789.8,
+    "profit": -71.12,
+    "lines": 2
+   },
+   {
+    "state": "Iowa",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 13.4,
+    "profit": 6.37,
+    "lines": 2
+   },
+   {
+    "state": "Iowa",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 1184.72,
+    "profit": 106.62,
+    "lines": 1
+   },
+   {
+    "state": "West Virginia",
+    "sub": "Binders",
+    "discount": 0.0,
+    "sales": 88.64,
+    "profit": 43.43,
+    "lines": 2
+   },
+   {
+    "state": "West Virginia",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 447.84,
+    "profit": 219.44,
+    "lines": 1
+   },
+   {
+    "state": "South Dakota",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 141.96,
+    "profit": 39.75,
+    "lines": 1
+   },
+   {
+    "state": "Montana",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 217.44,
+    "profit": 91.32,
+    "lines": 1
+   },
+   {
+    "state": "New Jersey",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 2275.88,
+    "profit": 141.39,
+    "lines": 2
+   },
+   {
+    "state": "Rhode Island",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 2.22,
+    "profit": 0.67,
+    "lines": 1
+   },
+   {
+    "state": "Tennessee",
+    "sub": "Bookcases",
+    "discount": 0.2,
+    "sales": 518.24,
+    "profit": -6.32,
+    "lines": 2
+   },
+   {
+    "state": "Nevada",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 4.71,
+    "profit": 0.0,
+    "lines": 1
+   },
+   {
+    "state": "Vermont",
+    "sub": "Phones",
+    "discount": 0.0,
+    "sales": 1294.75,
+    "profit": 336.63,
+    "lines": 1
+   },
+   {
+    "state": "Oklahoma",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 341.96,
+    "profit": 54.71,
+    "lines": 1
+   },
+   {
+    "state": "Vermont",
+    "sub": "Art",
+    "discount": 0.0,
+    "sales": 8.04,
+    "profit": 2.73,
+    "lines": 1
+   },
+   {
+    "state": "Vermont",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 1564.29,
+    "profit": 406.72,
+    "lines": 1
+   },
+   {
+    "state": "Maine",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 101.96,
+    "profit": 27.53,
+    "lines": 1
+   },
+   {
+    "state": "Maine",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 259.74,
+    "profit": 124.68,
+    "lines": 1
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 11.07,
+    "profit": 5.2,
+    "lines": 1
+   },
+   {
+    "state": "Louisiana",
+    "sub": "Tables",
+    "discount": 0.0,
+    "sales": 1590.5,
+    "profit": 368.39,
+    "lines": 2
+   },
+   {
+    "state": "Missouri",
+    "sub": "Chairs",
+    "discount": 0.0,
+    "sales": 60.89,
+    "profit": 15.22,
+    "lines": 1
+   },
+   {
+    "state": "Missouri",
+    "sub": "Labels",
+    "discount": 0.0,
+    "sales": 14.94,
+    "profit": 6.87,
+    "lines": 1
+   },
+   {
+    "state": "South Dakota",
+    "sub": "Supplies",
+    "discount": 0.0,
+    "sales": 25.5,
+    "profit": 6.63,
+    "lines": 1
+   },
+   {
+    "state": "Vermont",
+    "sub": "Paper",
+    "discount": 0.0,
+    "sales": 92.2,
+    "profit": 43.33,
+    "lines": 2
+   },
+   {
+    "state": "Vermont",
+    "sub": "Appliances",
+    "discount": 0.0,
+    "sales": 542.94,
+    "profit": 152.02,
+    "lines": 1
+   },
+   {
+    "state": "Vermont",
+    "sub": "Envelopes",
+    "discount": 0.0,
+    "sales": 2.04,
+    "profit": 0.96,
+    "lines": 1
+   },
+   {
+    "state": "West Virginia",
+    "sub": "Tables",
+    "discount": 0.3,
+    "sales": 673.34,
+    "profit": -76.95,
+    "lines": 1
+   },
+   {
+    "state": "Idaho",
+    "sub": "Accessories",
+    "discount": 0.0,
+    "sales": 89.97,
+    "profit": 37.79,
+    "lines": 1
+   },
+   {
+    "state": "Vermont",
+    "sub": "Bookcases",
+    "discount": 0.0,
+    "sales": 4404.9,
+    "profit": 1013.13,
+    "lines": 1
+   },
+   {
+    "state": "Indiana",
+    "sub": "Fasteners",
+    "discount": 0.0,
+    "sales": 8.46,
+    "profit": 0.1,
+    "lines": 2
+   },
+   {
+    "state": "Iowa",
+    "sub": "Storage",
+    "discount": 0.0,
+    "sales": 13.48,
+    "profit": 3.5,
+    "lines": 1
+   }
+  ],
+  "states": [
+   {
+    "state": "Kentucky",
+    "region": "South",
+    "sales": 36591.75,
+    "profit": 11199.7,
+    "lines": 139,
+    "margin": 0.30607163090040823,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "California",
+    "region": "West",
+    "sales": 457687.63,
+    "profit": 76381.39,
+    "lines": 2001,
+    "margin": 0.16688540795754495,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Florida",
+    "region": "South",
+    "sales": 89473.71,
+    "profit": -3399.3,
+    "lines": 383,
+    "margin": -0.037992185369136594,
+    "lossYears": 3,
+    "yearsPresent": 4
+   },
+   {
+    "state": "North Carolina",
+    "region": "South",
+    "sales": 55603.16,
+    "profit": -7490.91,
+    "lines": 249,
+    "margin": -0.13472097019514948,
+    "lossYears": 3,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Washington",
+    "region": "West",
+    "sales": 138641.27,
+    "profit": 33402.65,
+    "lines": 506,
+    "margin": 0.2409286332994498,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Texas",
+    "region": "Central",
+    "sales": 170188.05,
+    "profit": -25729.36,
+    "lines": 985,
+    "margin": -0.15118192455324614,
+    "lossYears": 4,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Wisconsin",
+    "region": "Central",
+    "sales": 32114.61,
+    "profit": 8401.8,
+    "lines": 110,
+    "margin": 0.2616192567806364,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Utah",
+    "region": "West",
+    "sales": 11220.06,
+    "profit": 2546.53,
+    "lines": 53,
+    "margin": 0.2269626372631296,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Nebraska",
+    "region": "Central",
+    "sales": 7464.93,
+    "profit": 2037.09,
+    "lines": 38,
+    "margin": 0.2728885870329663,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Pennsylvania",
+    "region": "East",
+    "sales": 116511.91,
+    "profit": -15559.96,
+    "lines": 587,
+    "margin": -0.13354823353086456,
+    "lossYears": 4,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Illinois",
+    "region": "Central",
+    "sales": 80166.1,
+    "profit": -12607.89,
+    "lines": 492,
+    "margin": -0.1572720494414466,
+    "lossYears": 4,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Minnesota",
+    "region": "Central",
+    "sales": 29863.15,
+    "profit": 10823.19,
+    "lines": 89,
+    "margin": 0.3624261807612393,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Michigan",
+    "region": "Central",
+    "sales": 76269.61,
+    "profit": 24463.19,
+    "lines": 255,
+    "margin": 0.32074618340142624,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Delaware",
+    "region": "East",
+    "sales": 27451.07,
+    "profit": 9977.37,
+    "lines": 96,
+    "margin": 0.36346033737338257,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Indiana",
+    "region": "Central",
+    "sales": 53555.36,
+    "profit": 18382.94,
+    "lines": 149,
+    "margin": 0.34325110129032843,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "New York",
+    "region": "East",
+    "sales": 310876.27,
+    "profit": 74038.55,
+    "lines": 1128,
+    "margin": 0.23816082315269443,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Arizona",
+    "region": "West",
+    "sales": 35282.0,
+    "profit": -3427.92,
+    "lines": 224,
+    "margin": -0.09715788512108484,
+    "lossYears": 3,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Virginia",
+    "region": "South",
+    "sales": 70636.72,
+    "profit": 18597.95,
+    "lines": 224,
+    "margin": 0.2632901187937379,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Tennessee",
+    "region": "South",
+    "sales": 30661.87,
+    "profit": -5341.69,
+    "lines": 183,
+    "margin": -0.1742128929958063,
+    "lossYears": 3,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Alabama",
+    "region": "South",
+    "sales": 19510.64,
+    "profit": 5786.83,
+    "lines": 61,
+    "margin": 0.296598435520311,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "South Carolina",
+    "region": "South",
+    "sales": 8481.71,
+    "profit": 1769.06,
+    "lines": 42,
+    "margin": 0.20857310613072133,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Oregon",
+    "region": "West",
+    "sales": 17431.15,
+    "profit": -1190.47,
+    "lines": 124,
+    "margin": -0.06829558003918272,
+    "lossYears": 4,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Colorado",
+    "region": "West",
+    "sales": 32108.12,
+    "profit": -6527.86,
+    "lines": 182,
+    "margin": -0.20330864300423968,
+    "lossYears": 3,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Iowa",
+    "region": "Central",
+    "sales": 4579.76,
+    "profit": 1183.81,
+    "lines": 30,
+    "margin": 0.25848775918388744,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Ohio",
+    "region": "East",
+    "sales": 78258.14,
+    "profit": -16971.38,
+    "lines": 469,
+    "margin": -0.21686405359821034,
+    "lossYears": 4,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Missouri",
+    "region": "Central",
+    "sales": 22205.15,
+    "profit": 6436.21,
+    "lines": 66,
+    "margin": 0.28985215141532483,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Oklahoma",
+    "region": "Central",
+    "sales": 19683.39,
+    "profit": 4853.96,
+    "lines": 66,
+    "margin": 0.24660162705712788,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "New Mexico",
+    "region": "West",
+    "sales": 4783.52,
+    "profit": 1157.12,
+    "lines": 37,
+    "margin": 0.24189626388255353,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Louisiana",
+    "region": "South",
+    "sales": 9217.03,
+    "profit": 2196.1,
+    "lines": 42,
+    "margin": 0.23826572117048564,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Connecticut",
+    "region": "East",
+    "sales": 13384.36,
+    "profit": 3511.49,
+    "lines": 82,
+    "margin": 0.2623579003459039,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "New Jersey",
+    "region": "East",
+    "sales": 35764.31,
+    "profit": 9772.91,
+    "lines": 130,
+    "margin": 0.27325882292940507,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Massachusetts",
+    "region": "East",
+    "sales": 28634.43,
+    "profit": 6785.5,
+    "lines": 135,
+    "margin": 0.23696999214302636,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Georgia",
+    "region": "South",
+    "sales": 49095.84,
+    "profit": 16250.04,
+    "lines": 184,
+    "margin": 0.3309861548351144,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Nevada",
+    "region": "West",
+    "sales": 16729.1,
+    "profit": 3316.77,
+    "lines": 39,
+    "margin": 0.19826323612588412,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Rhode Island",
+    "region": "East",
+    "sales": 22627.96,
+    "profit": 7285.63,
+    "lines": 56,
+    "margin": 0.32197469802398426,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Mississippi",
+    "region": "South",
+    "sales": 10771.34,
+    "profit": 3172.98,
+    "lines": 53,
+    "margin": 0.2945758095093088,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Arkansas",
+    "region": "South",
+    "sales": 11678.13,
+    "profit": 4008.69,
+    "lines": 60,
+    "margin": 0.34326446956832996,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Montana",
+    "region": "West",
+    "sales": 5589.35,
+    "profit": 1833.33,
+    "lines": 15,
+    "margin": 0.3280037650160521,
+    "lossYears": 0,
+    "yearsPresent": 3
+   },
+   {
+    "state": "New Hampshire",
+    "region": "East",
+    "sales": 7292.52,
+    "profit": 1706.5,
+    "lines": 27,
+    "margin": 0.23400715582149612,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Maryland",
+    "region": "East",
+    "sales": 23705.52,
+    "profit": 7031.18,
+    "lines": 105,
+    "margin": 0.29660509072084157,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "District of Columbia",
+    "region": "East",
+    "sales": 2865.02,
+    "profit": 1059.59,
+    "lines": 10,
+    "margin": 0.36983661545120106,
+    "lossYears": 0,
+    "yearsPresent": 3
+   },
+   {
+    "state": "Kansas",
+    "region": "Central",
+    "sales": 2914.31,
+    "profit": 836.44,
+    "lines": 24,
+    "margin": 0.28701253469946575,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "Vermont",
+    "region": "East",
+    "sales": 8929.37,
+    "profit": 2244.98,
+    "lines": 11,
+    "margin": 0.2514150830349734,
+    "lossYears": 0,
+    "yearsPresent": 3
+   },
+   {
+    "state": "Maine",
+    "region": "East",
+    "sales": 1270.53,
+    "profit": 454.49,
+    "lines": 8,
+    "margin": 0.3577138674411465,
+    "lossYears": 0,
+    "yearsPresent": 3
+   },
+   {
+    "state": "South Dakota",
+    "region": "Central",
+    "sales": 1315.56,
+    "profit": 394.83,
+    "lines": 12,
+    "margin": 0.3001218492505093,
+    "lossYears": 0,
+    "yearsPresent": 2
+   },
+   {
+    "state": "Idaho",
+    "region": "West",
+    "sales": 4382.49,
+    "profit": 826.72,
+    "lines": 21,
+    "margin": 0.1886424965190989,
+    "lossYears": 0,
+    "yearsPresent": 4
+   },
+   {
+    "state": "North Dakota",
+    "region": "Central",
+    "sales": 919.91,
+    "profit": 230.15,
+    "lines": 7,
+    "margin": 0.25018719222532637,
+    "lossYears": 0,
+    "yearsPresent": 1
+   },
+   {
+    "state": "Wyoming",
+    "region": "West",
+    "sales": 1603.14,
+    "profit": 100.2,
+    "lines": 1,
+    "margin": 0.0625,
+    "lossYears": 0,
+    "yearsPresent": 1
+   },
+   {
+    "state": "West Virginia",
+    "region": "East",
+    "sales": 1209.82,
+    "profit": 185.92,
+    "lines": 4,
+    "margin": 0.15367656783135397,
+    "lossYears": 0,
+    "yearsPresent": 1
+   }
+  ],
+  "subs": [
+   {
+    "sub": "Accessories",
+    "grossLosses": -930.63,
+    "net": 41936.64
+   },
+   {
+    "sub": "Appliances",
+    "grossLosses": -8629.64,
+    "net": 18138.01
+   },
+   {
+    "sub": "Art",
+    "grossLosses": 0.0,
+    "net": 6527.79
+   },
+   {
+    "sub": "Binders",
+    "grossLosses": -38510.5,
+    "net": 30221.76
+   },
+   {
+    "sub": "Bookcases",
+    "grossLosses": -12152.21,
+    "net": -3472.56
+   },
+   {
+    "sub": "Chairs",
+    "grossLosses": -9880.84,
+    "net": 26590.17
+   },
+   {
+    "sub": "Copiers",
+    "grossLosses": 0.0,
+    "net": 55617.82
+   },
+   {
+    "sub": "Envelopes",
+    "grossLosses": 0.0,
+    "net": 6964.18
+   },
+   {
+    "sub": "Fasteners",
+    "grossLosses": -33.2,
+    "net": 949.52
+   },
+   {
+    "sub": "Furnishings",
+    "grossLosses": -6490.91,
+    "net": 13059.14
+   },
+   {
+    "sub": "Labels",
+    "grossLosses": 0.0,
+    "net": 5546.25
+   },
+   {
+    "sub": "Machines",
+    "grossLosses": -30118.67,
+    "net": 3384.76
+   },
+   {
+    "sub": "Paper",
+    "grossLosses": 0.0,
+    "net": 34053.57
+   },
+   {
+    "sub": "Phones",
+    "grossLosses": -7530.62,
+    "net": 44515.73
+   },
+   {
+    "sub": "Storage",
+    "grossLosses": -6426.3,
+    "net": 21278.83
+   },
+   {
+    "sub": "Supplies",
+    "grossLosses": -3015.62,
+    "net": -1189.1
+   },
+   {
+    "sub": "Tables",
+    "grossLosses": -32412.15,
+    "net": -17725.48
+   }
+  ],
+  "singleDiscountCells": 552,
+  "multiLineCells": 552,
+  "totalCells": 656,
+  "deepCells": 58,
+  "deepCellsLosing": 55,
+  "deepCellStates": 19,
+  "lossStates": [
+   "Arizona",
+   "Colorado",
+   "Florida",
+   "Illinois",
+   "North Carolina",
+   "Ohio",
+   "Oregon",
+   "Pennsylvania",
+   "Tennessee",
+   "Texas"
+  ]
+ },
+ "what": {
+  "subs": [
+   {
+    "sub": "Binders",
+    "grossLosses": -38510.5,
+    "grossGains": 68732.26,
+    "net": 30221.76,
+    "sales": 203412.73,
+    "cat": "Office Supplies"
+   },
+   {
+    "sub": "Tables",
+    "grossLosses": -32412.15,
+    "grossGains": 14686.67,
+    "net": -17725.48,
+    "sales": 206965.53,
+    "cat": "Furniture"
+   },
+   {
+    "sub": "Machines",
+    "grossLosses": -30118.67,
+    "grossGains": 33503.43,
+    "net": 3384.76,
+    "sales": 189238.63,
+    "cat": "Technology"
+   },
+   {
+    "sub": "Bookcases",
+    "grossLosses": -12152.21,
+    "grossGains": 8679.65,
+    "net": -3472.56,
+    "sales": 114880.0,
+    "cat": "Furniture"
+   },
+   {
+    "sub": "Chairs",
+    "grossLosses": -9880.84,
+    "grossGains": 36471.01,
+    "net": 26590.17,
+    "sales": 328449.1,
+    "cat": "Furniture"
+   },
+   {
+    "sub": "Appliances",
+    "grossLosses": -8629.64,
+    "grossGains": 26767.65,
+    "net": 18138.01,
+    "sales": 107532.16,
+    "cat": "Office Supplies"
+   },
+   {
+    "sub": "Phones",
+    "grossLosses": -7530.62,
+    "grossGains": 52046.35,
+    "net": 44515.73,
+    "sales": 330007.05,
+    "cat": "Technology"
+   },
+   {
+    "sub": "Furnishings",
+    "grossLosses": -6490.91,
+    "grossGains": 19550.06,
+    "net": 13059.14,
+    "sales": 91705.16,
+    "cat": "Furniture"
+   },
+   {
+    "sub": "Storage",
+    "grossLosses": -6426.3,
+    "grossGains": 27705.13,
+    "net": 21278.83,
+    "sales": 223843.61,
+    "cat": "Office Supplies"
+   },
+   {
+    "sub": "Supplies",
+    "grossLosses": -3015.62,
+    "grossGains": 1826.52,
+    "net": -1189.1,
+    "sales": 46673.54,
+    "cat": "Office Supplies"
+   },
+   {
+    "sub": "Accessories",
+    "grossLosses": -930.63,
+    "grossGains": 42867.26,
+    "net": 41936.64,
+    "sales": 167380.32,
+    "cat": "Technology"
+   },
+   {
+    "sub": "Fasteners",
+    "grossLosses": -33.2,
+    "grossGains": 982.71,
+    "net": 949.52,
+    "sales": 3024.28,
+    "cat": "Office Supplies"
+   },
+   {
+    "sub": "Art",
+    "grossLosses": 0.0,
+    "grossGains": 6527.79,
+    "net": 6527.79,
+    "sales": 27118.79,
+    "cat": "Office Supplies"
+   },
+   {
+    "sub": "Copiers",
+    "grossLosses": 0.0,
+    "grossGains": 55617.82,
+    "net": 55617.82,
+    "sales": 149528.03,
+    "cat": "Technology"
+   },
+   {
+    "sub": "Envelopes",
+    "grossLosses": 0.0,
+    "grossGains": 6964.18,
+    "net": 6964.18,
+    "sales": 16476.4,
+    "cat": "Office Supplies"
+   },
+   {
+    "sub": "Labels",
+    "grossLosses": 0.0,
+    "grossGains": 5546.25,
+    "net": 5546.25,
+    "sales": 12486.31,
+    "cat": "Office Supplies"
+   },
+   {
+    "sub": "Paper",
+    "grossLosses": 0.0,
+    "grossGains": 34053.57,
+    "net": 34053.57,
+    "sales": 78479.21,
+    "cat": "Office Supplies"
+   }
+  ],
+  "binders": {
+   "machineLosses": -30012.34,
+   "otherLosses": -8498.15,
+   "machineShare": 0.7793289156355824,
+   "machineProducts": 17,
+   "machineLines": 118,
+   "lines": 1523,
+   "machineSalesShare": 0.7481578353307902,
+   "net": 30221.76,
+   "fullPriceMargin": 0.47792666241550597,
+   "worst": [
+    {
+     "name": "GBC DocuBind P400 Electric Binding System",
+     "state": "Texas",
+     "disc": 0.8,
+     "qty": 8,
+     "sales": 2177.58,
+     "profit": -3701.89
+    },
+    {
+     "name": "Ibico EPK-21 Electric Binding System",
+     "state": "Illinois",
+     "disc": 0.8,
+     "qty": 5,
+     "sales": 1889.99,
+     "profit": -2929.48
+    },
+    {
+     "name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+     "state": "Texas",
+     "disc": 0.8,
+     "qty": 6,
+     "sales": 1525.19,
+     "profit": -2287.78
+    }
+   ]
+  },
+  "tables": {
+   "net": -17725.48,
+   "sales": 206965.53,
+   "byYear": [
+    {
+     "year": 2014,
+     "profit": -3124.04
+    },
+    {
+     "year": 2015,
+     "profit": -3509.8
+    },
+    {
+     "year": 2016,
+     "profit": -2950.94
+    },
+    {
+     "year": 2017,
+     "profit": -8140.69
+    }
+   ],
+   "lossLineShare": 0.6363636363636364,
+   "fullPriceMargin": 0.19085013649863425,
+   "salesRank": 4
+  },
+  "machines": {
+   "net": 3384.76,
+   "grossLosses": -30118.67,
+   "fullPriceMargin": 0.35486561733474153,
+   "deepLosses": -27214.55,
+   "margin": 0.01788618360909618
+  },
+  "categories": [
+   {
+    "category": "Furniture",
+    "fullPriceMargin": 0.21967451954343753,
+    "margin": 0.024866951334588865,
+    "listWeightedDiscount": 0.1997753726791094,
+    "sales": 741999.8,
+    "profit": 18451.27
+   },
+   {
+    "category": "Office Supplies",
+    "fullPriceMargin": 0.3358931659361494,
+    "margin": 0.1703515839002865,
+    "listWeightedDiscount": 0.19953221005844335,
+    "sales": 719047.03,
+    "profit": 122490.8
+   },
+   {
+    "category": "Technology",
+    "fullPriceMargin": 0.33485070946591033,
+    "margin": 0.17395712076891937,
+    "listWeightedDiscount": 0.19477631578491206,
+    "sales": 836154.03,
+    "profit": 145454.95
+   }
+  ]
+ },
+ "ship": [
+  {
+   "mode": "First Class",
+   "orders": 787,
+   "sales": 351428.42,
+   "profit": 48969.84,
+   "margin": 0.13934513177932256,
+   "lo": 0.09602380429986732,
+   "hi": 0.18166147164551574,
+   "aov": 446.5418334180432
+  },
+  {
+   "mode": "Same Day",
+   "orders": 264,
+   "sales": 128363.12,
+   "profit": 15891.76,
+   "margin": 0.12380314751607986,
+   "lo": 0.036158670915452454,
+   "hi": 0.1927431173654948,
+   "aov": 486.2239583333333
+  },
+  {
+   "mode": "Second Class",
+   "orders": 964,
+   "sales": 459193.57,
+   "profit": 57446.64,
+   "margin": 0.1251033098635549,
+   "lo": 0.09842808327112913,
+   "hi": 0.15127057840765404,
+   "aov": 476.34187697095433
+  },
+  {
+   "mode": "Standard Class",
+   "orders": 2994,
+   "sales": 1358215.74,
+   "profit": 164088.79,
+   "margin": 0.12081201999438171,
+   "lo": 0.09288278777065918,
+   "hi": 0.1464194795880263,
+   "aov": 453.645872745491
+  }
+ ],
+ "meta": {
+  "products": 1894,
+  "states": 49,
+  "subs": 17,
+  "years": [
+   2014,
+   2015,
+   2016,
+   2017
+  ],
+  "source": "dataset/Sample - Superstore.csv"
+ }
+}
